@@ -1,31 +1,33 @@
-# prueba_data_science
-Prueba Técnica para Científico de Datos en Tranqui Finanzas.
+# prueba_data_science - Kevin Bocanegra
+Respuestas de la Prueba Técnica para Científico de Datos en Tranqui Finanzas.
+
 Fase 1: Calidad de Datos y Análisis Crítico (EDA)
+
 1. Auditoria Metodológica:
 
-    a.	Extraer información:
+	Extraer información:
 
-        i.  Preevisualizando el archivo con las muestras se evidencia que viene en formato .csv, con varias columnas relacionadas con datos demográficos de la deuda del cliente junto con la campaña estratégica especial que se usó, y adicionalmente trae una columna llamada “metadatos_sesion” relacionada al tiempo de sesión que tuvo el cliente al momento de registrarse en el Portal, esta columna no trae datos para todos los ususarios, algunos vienen en formato json y otros separados por ||.
+	a.  Preevisualizando el archivo con las muestras se evidencia que viene en formato .csv, con varias columnas relacionadas con datos demográficos de la deuda del cliente junto con la campaña estratégica especial que se usó, y adicionalmente trae una columna llamada “metadatos_sesion” relacionada al tiempo de sesión que tuvo el cliente al momento de registrarse en el Portal, esta columna no trae datos para todos los ususarios, algunos vienen en formato json y otros separados por ||.
 
-        ii. Teniendo en cuenta lo anterior se realizó un script de extracción en python donde se carga el dataframe, se extraen las columnas de “metadatos_sesion”, y por último se exporta el Excel limpio para analizar.
+	b. Teniendo en cuenta lo anterior se realizó un script de extracción en python donde se carga el dataframe, se extraen las columnas de “metadatos_sesion”, y por último se exporta el Excel limpio para analizar.
 
-    b.	Hallazgos:
+	Hallazgos:
 
-        i.  Tomando en cuenta un indicador que compara la fecha de registro con fecha de cancelación, donde si "fecha_registro" > "fecha_cancelacion" se marca como 1, de lo contrario como 0. Este se llamará "indicador_fecha" y se evidencia que: 
+	a.  Tomando en cuenta un indicador que compara la fecha de registro con fecha de cancelación, donde si "fecha_registro" > "fecha_cancelacion" se marca como 1, de lo contrario como 0. Este se llamará "indicador_fecha" y se evidencia que: 
 
-            1.  Existen 90 usuarios con "indicador_fecha" = 1 y con "fecha_cancelacion" existente, lo cual no tiene sentido pues "fecha_registro" corresponde a la fecha de registro en la que el usuario se registró en el Portal de Autogestión y "fecha_cancelación" corresponde a la fecha en la que el usuario abandona el proceso antes de consolidar su acuerdo de pago. Otra suposición de estos usuarios es que esa fecha de cancelación es la última que registra el sistema, y puede que el usuario volvió a registrarse nuevamente al portal ocasionando que sea mayor esta fecha y teniendo este bug. Ejemplo: "customer_id" = TRQ-00021.
+		1.  Existen 90 usuarios con "indicador_fecha" = 1 y con "fecha_cancelacion" existente, lo cual no tiene sentido pues "fecha_registro" corresponde a la fecha de registro en la que el usuario se registró en el Portal de Autogestión y "fecha_cancelación" corresponde a la fecha en la que el usuario abandona el proceso antes de consolidar su acuerdo de pago. Otra suposición de estos usuarios es que esa fecha de cancelación es la última que registra el sistema, y puede que el usuario volvió a registrarse nuevamente al portal ocasionando que sea mayor esta fecha y teniendo este bug. Ejemplo: "customer_id" = TRQ-00021.
 
-            2.  Existen 261 usuarios con "indicador_fecha" = 0, es decir, abandonaron el proceso antes de consolidar su acuerdo de pago. Ejemplo: "customer_id" = TRQ-00032.
+		2.  Existen 261 usuarios con "indicador_fecha" = 0, es decir, abandonaron el proceso antes de consolidar su acuerdo de pago. Ejemplo: "customer_id" = TRQ-00032.
 
-            3.  Existen 1.149 usuarios con "indicador_fecha" = 1 y sin "fecha_cancelacion" existente. Estos usuarios son los que debemos mantener en el proceso de consolidar su acuerdo. Ejemplo: "customer_id" = TRQ-00014.
+		3.  Existen 1.149 usuarios con "indicador_fecha" = 1 y sin "fecha_cancelacion" existente. Estos usuarios son los que debemos mantener en el proceso de consolidar su acuerdo. Ejemplo: "customer_id" = TRQ-00014.
 
-        ii.	En la columna "edad" existen 19 usuarios con edad negativa, que se marcan como '-99'. Esto puede ser por un error al traer los datos que se marcan de esta forma, ya que de lo contrario no tiene sentido este valor pues los usuarios que se registran son usuarios con cuentas en mora. Ejemplo: "customer_id" = TRQ-00024 .
+	b.	En la columna "edad" existen 19 usuarios con edad negativa, que se marcan como '-99'. Esto puede ser por un error al traer los datos que se marcan de esta forma, ya que de lo contrario no tiene sentido este valor pues los usuarios que se registran son usuarios con cuentas en mora. Ejemplo: "customer_id" = TRQ-00024 .
 
-        iii. Sobre la columna metadatos_sesions:
+	c. Sobre la columna metadatos_sesions:
 
-            1.	No todos los usuarios cuentan con información de esta columna. Son 531 usuarios, correspondiendo a un 35% del total usuarios registrados.
+		1.	No todos los usuarios cuentan con información de esta columna. Son 531 usuarios, correspondiendo a un 35% del total usuarios registrados.
 
-            2.	Los que sí cuentan con información (969 usuarios), tienen 3 columnas, que relaciona la interacción que tuvieron con el portal de autogestión. Se evidencian gestiones usando celular o computador, el tipo de navegador y el tiempo de sesión en el portal.
+		2.	Los que sí cuentan con información (969 usuarios), tienen 3 columnas, que relaciona la interacción que tuvieron con el portal de autogestión. Se evidencian gestiones usando celular o computador, el tipo de navegador y el tiempo de sesión en el portal.
 
 2.	Resolución de ambigüedad:
 
