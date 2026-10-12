@@ -1,5 +1,7 @@
 # Fase 1: Calidad de Datos y Análisis Crítico (EDA)
 
+# 1. Auditoría Metodológica:
+
 import os
 import pandas as pd
 import json
@@ -55,6 +57,24 @@ df['session_mins_imputado'] = df['session_mins'].fillna(mediana_session)
 
 # Eliminar la columna metadatos_sesion original
 df.drop(columns=['metadatos_sesion'], inplace=True)
+
+
+# 2. Resolución de Ambigüedad:
+
+# Crear el indicador_fecha
+# (si fecha_registro >= fecha_cancelacion -> 1, de lo contrario 0)
+df['indicador_fecha'] = (df['fecha_registro'] > df['fecha_cancelacion']).astype(int)
+
+# a. Descartar los 90 usuarios incongruentes
+# (Se descartan si tienen indicador_fecha == 1 Y tienen fecha_cancelacion no nula)
+df = df[~((df['indicador_fecha'] == 1) & (df['fecha_cancelacion'].notna()))]
+
+# b. Descartar los usuarios con edad negativa
+df = df[df['edad'] >= 0]
+
+# Muestra de 1.393 usuarios para medir
+print(df.head())
+print(df.shape) 
 
 # Exportar el dataset procesado a la carpeta data/ (Ruta relativa)
 df.to_csv(CLEAN_DATA_PATH, index=False)

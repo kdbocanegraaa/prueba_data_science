@@ -1,15 +1,54 @@
-# prueba_data_science - Kevin Bocanegra
-Respuestas de la Prueba Técnica para Científico de Datos en Tranqui Finanzas.
+# Prueba Técnica — Científico de Datos (Tranqui Finanzas)
+**Candidato:** Kevin Bocanegra  
+**Entorno de Desarrollo:** Python 3.11  
 
-Fase 1: Calidad de Datos y Análisis Crítico (EDA)
+---
+
+## 📁 Estructura del Repositorio
+
+```text
+├── README.md                           <-- Documentación y respuestas analíticas
+├── requirements.txt                    <-- Dependencias del proyecto
+├── fase_1.py                           <-- Script: Calidad de Datos y Análisis Crítico (EDA)
+├── fase_2.py                           <-- Script: Ingeniería de Características con Reglas de Negocio
+├── fase_3.py                           <-- Script: Modelado Predictivo y Optimización Financiera
+├── fase_4.py                           <-- Script: Comunicación Ejecutiva y Traducción de Resultados
+├── data/
+│   ├── retencion_clientes.xls          <-- Dataset base (1.500 registros)
+│   └── retencion_clientes_limpio.csv   <-- Dataset depurado (1,393 registros)
+└── reports/
+    ├── informe_ejecutivo_retencion.pdf <-- Reporte formal para Gerencia y Finanzas
+    └── figures/
+        ├── grafico_1_campanas.png      <-- Visualización de hallazgos campaña de origen
+        └── grafico_2_umbrales.png      <-- Análisis de costo e impacto financiero por umbrales
+
+```
+
+ ## Requisitos y Ejecución:
+
+1. Instalar dependencias necesarias:
+```text
+pip install -r requirements.txt
+```
+2. Ejecución secuencial de los scripts por fase:
+```text
+python fase_1.py
+python fase_2.py
+python fase_3.py
+python fase_4.py
+```
+
+## Respuestas de la Prueba Técnica para Científico de Datos en Tranqui Finanzas.
+
+<b> Fase 1: Calidad de Datos y Análisis Crítico (EDA) </b>
 
 1. Auditoria Metodológica:
 
 	Extraer información:
 
-	a.  Preevisualizando el archivo con las muestras se evidencia que viene en formato .csv, con varias columnas relacionadas con datos demográficos de la deuda del cliente junto con la campaña estratégica especial que se usó, y adicionalmente trae una columna llamada “metadatos_sesion” relacionada al tiempo de sesión que tuvo el cliente al momento de registrarse en el Portal, esta columna no trae datos para todos los ususarios, algunos vienen en formato json y otros separados por ||.
+	a.  Previsualizando el archivo con las muestras se evidencia que viene en formato .csv, con varias columnas relacionadas con datos demográficos de la deuda del cliente junto con la campaña estratégica especial que se usó, y adicionalmente trae una columna llamada “metadatos_sesion” relacionada al tiempo de sesión que tuvo el cliente al momento de registrarse en el Portal, esta columna no trae datos para todos los usuarios, algunos vienen en formato json y otros separados por ||.
 
-	b. Teniendo en cuenta lo anterior se realizó un script de extracción en python donde se carga el dataframe, se extraen las columnas de “metadatos_sesion”, y por último se exporta el Excel limpio para analizar.
+	b. Teniendo en cuenta lo anterior se realizó un script de extracción en python donde se carga el dataframe, se extraen las columnas de “metadatos_sesion”, y por último se exporta el Excel limpio para analizar. Este script es el "fase_1.py".
 
 	Hallazgos:
 
@@ -37,15 +76,19 @@ Fase 1: Calidad de Datos y Análisis Crítico (EDA)
 
     c.	De la anterior limpieza quedan 1.393 usuarios, de los cuales 893 cuentan con información en "metadatos_sesion" para analizar. Con esto en cuenta, para los 500 usuarios que no cuentan con tiempo de sesión se crea la columna "session_mins_imputado" con la mediana de los tiempos de sesión de los otros 893 usuarios. Esto para tener una similar a los demás y no afecten estos valores nulos al momento de entrenar los modelos.
 
-Fase 2: Ingeniería de Características con Reglas de Negocio
-1.  Script python
-2. Viene relacionado al punto Fase 1: 2.c
-Fase 3:
-1.	Se usaron 2 modelos, Regresión logística, random forest, en ambos modelos se tuvo que la probabilidad de que un usuario abandone el portal de negocio está dada al azar, alrededor de 52%
-2.	costo_total_errores_financieros(u) = (FP(u)*15)+(FP(u)*70), donde u es el umbral.
-Fase 4:
-	E structura de Reporte Ejecutivo (Máximo 3 párrafos): Redacta la síntesis formal dirigida a la Gerencia de Operaciones y a la Dirección Financiera. El texto debe concluir con absoluta claridad: ¿Qué estrategia o campaña de origen demostró retener mejor a los deudores?, ¿Cuánto presupuesto/dinero proyecta ahorrar el modelo calibrado a la organización en comparación con un escenario sin segmentación predictiva? y ¿Cuál es tu recomendación inmediata para la puesta en producción?
+<b> Fase 2: Ingeniería de Características con Reglas de Negocio </b>
 
-Se cargaron 1.500 registros de la muestra dada, de los cuales se limpiaron datos incongruentes y quedaron 1.396 registros para la muestra a considerar, donde un 35% no contiene datos referentes a la sesión que tuvieron al ingresar al portal de autogestión. Con esto en cuenta se crearon variables como la de identificar un deudor de alta viabilidad, identificar los clientes con y sin datos referentes a su sesión en el portal de autogestión. En total fueron 9 variables que se usaron para entrenar dos modelos predictivos, el de Regresión Logística y el de Random Forest, con el fin de saber la probabilidad de que un usuario fuera churn.
-Los resultados de los modelos lanzaron que se tuvo un ROC-AUC muy cercano al 50%, dando un escenario de azar. Con este escenario de azar se concluye que las campañas de origen realmente no están funcionando para retener a los deudores. Con esto en cuenta, evaluando las pérdidas que se podrían obtener entre usuarios Falsos positivos (FP) y Falsos negativos (FN), donde por cada FP se pierden $15 USD y por cada FN se pierden $70 USD, dado un umbral estándar de 50%, se tienen unas pérdidas de $3.700 USD. Optimizando este modelo se obtuvo un umbral de 22%, dando unas pérdidas de $3.055, es decir, un $645 USD de ahorro neto, dando un 17.4% de mejora.
-Se recomienda usar el modelo optimizado para campañas de cobranza y retención de usuarios en el portal de autogestión. Adicionalmente, para mejorar la tasa de ROC-AUC con los modelos estadísticos necesitamos enriquecer el dataset con más usuarios churn, dado que la muestra fue muy reducida, donde un 35% de las muestras venían incongruentes con su fecha de cancelación vs fecha de registro, además, necesitamos que todos los usuarios tengan disponible los datos sobre su registro usando el portal de autogestión, además de trae otras variables como el tipo de producto del usuario, y el medio de comunicación que se usó para que contactar al cliente informándole que usara el aplicativo.
+1.  Script python: "fase_2.py"
+
+2.	Se creó el indicador "session_mins_imputado" con la mediana de los usuarios que sí contaban con tiempo de sesión en el portal con el fin de no alterar la data para entrenar los modelos. Más detalle en el item de Fase 1: 2.c.
+
+<b> Fase 3: Modelado Predictivo y Optimización Financiera </b>
+
+1.	Se usaron 2 modelos: Regresión logística y Random forest. En ambos modelos se tuvo que la probabilidad de que un usuario abandone el portal de negocio está dada al azar, alrededor de 52% en ROC-AUC.
+
+2.	Función matemática operativa: costo_total_errores_financieros(u) = (FP(u)*15)+(FN(u)*70), donde u es el umbral. Se halló el umbral, el cual es de 22%, dando $645 USD de ahorro neto, es decir, un 17.4% de mejora respecto al umbral estándar. Más detalle en el resultado del script "fase_3.py".
+
+<b> Fase 4: Comunicación Ejecutiva y Traducción de Resultados </b>
+
+1. Respuesta en informe_ejecutivo_retencion.pdf
+2. Gráficas creadas por medio del script "fase_4.py" y con las imágenes guardadas en "reports/figures" como "grafico_1_campanas.png" y "grafico_2_umbrales.png".

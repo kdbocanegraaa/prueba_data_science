@@ -1,0 +1,26 @@
+Dirigido a: Gerencia de Operaciones, Dirección Financiera.
+Asunto: Informe de Retención de Clientes Portal autogestión: Estrategias de Campañas y Modelos Predictivos de usuarios Churn.
+Redactado por: Área de Ciencia de Datos.
+
+Se cargaron 1.500 registros de la muestra compartida de usuarios para retención del Portal de autogestión, de los cuales se 
+encontraron filtraron incongruencias e inconsistencias de calidad quedando 1.393 registros efectivos para el entrenamiento y
+análisis, donde un 35% de los datos carecía de metadatos de sesión en el portal de autogestión. Al analizar las estrategias
+de campañas especiales: Orgánico demostró ser la más efectiva en retención con una tasa de churn de solo 16.1%, seguida de
+Navidad (17.3%), mientras que CyberLunes representó el mayor riesgo operativo alcanzando un 24.7% de deserción. Por otro lado,
+se desarrollaron variables como el indicador de deudor de alta viabilidad y el imputado de tiempo de sesión de los usuarios.
+Con estas, se entrenaron los modelos estadísticos de Regresión Logística y Random Forest para estimar la probabilidad de 
+abandono (churn). 
+
+A nivel predictivo general, los modelos arrojaron un ROC-AUC cercano al 50% (45.6% y 52.4% respectivamente), equivalente al
+azar, indicando que el dataset actual no es suficiente para estimar una probabilidad de que un usuario sea Churn. Así mismo
+para mitigar el impacto económico, se implementó una función de costo operativo donde $15 USD es la pérdida por cada Falso
+Positivo (FP) y $70 USD por cada Falso Negativo (FN). Con el umbral estándar del 50%, la operación asumiría pérdidas de 
+$3.700 USD (46 FN * $70 + 32 FP * $15). Mediante la calibración del modelo se encontró un umbral óptimo de 0.22, reduciendo
+las pérdidas totales a $3.055 USD (10 FN * $70 + 157 FP * $15), lo que representa un ahorro neto demostrado de $645 USD 
+(17.4% de reducción en costos por error).
+
+Recomendación Operativa: Se aconseja poner en producción el modelo calibrado al umbral de 0.22 para optimizar las campañas de
+cobranza en el portal de autogestión. Paralelamente, se recomienda reorientar el presupuesto promocional reduciendo la pauta
+en CyberLunes y priorizando los canales Orgánico y Navidad. Para elevar la potencia predictiva en etapas futuras, es
+necesario enriquecer el dataset con variables de comportamiento crediticio (por ejemplo: tipos de productos o reintentos de
+pagos fallidos) y canalizar la captura obligatoria de metadatos de sesión en todos los registros.
