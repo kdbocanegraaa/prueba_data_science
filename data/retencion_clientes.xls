@@ -1,0 +1,1501 @@
+customer_id,edad,ticket_promedio,total_compras,campana_origen,churn_flag,fecha_registro,fecha_cancelacion,metadatos_sesion
+TRQ-00001,56,117.31981531989712,16,Black Friday,0,2025-02-07,,device: Mobile || browser: Android_Webview || session_mins: 44
+TRQ-00002,69,22.48464149138695,30,Organico,0,2025-05-15,,device: Mobile || browser: Android_Webview || session_mins: 83
+TRQ-00003,46,157.350247172052,2,Organico,1,2025-03-07,2025-04-07,NaN
+TRQ-00004,32,96.12487860212525,17,Black Friday,0,2025-05-15,,NaN
+TRQ-00005,60,109.63415117224021,12,Organico,0,2025-06-28,,NaN
+TRQ-00006,25,93.74492191826334,35,Navidad,0,2025-01-23,,device: Mobile || browser: Android_Webview || session_mins: 38
+TRQ-00007,-99,86.14498156631194,1,Black Friday,0,2025-04-16,,NaN
+TRQ-00008,56,116.3316629485614,15,Organico,0,2025-03-30,,
+TRQ-00009,36,39.495646726835375,26,CyberLunes,0,2025-06-03,,device: Mobile || browser: Android_Webview || session_mins: 41
+TRQ-00010,40,44.56634479410151,37,Black Friday,0,2025-05-06,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 65}"
+TRQ-00011,28,173.73926799256827,21,Navidad,0,2025-03-21,,NaN
+TRQ-00012,28,189.76193780539023,31,Navidad,0,2025-04-01,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 93}"
+TRQ-00013,41,80.92877009315306,25,Navidad,0,2025-02-21,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 82}"
+TRQ-00014,70,61.441487897275216,23,Organico,0,2025-06-26,,
+TRQ-00015,53,132.35991321541297,24,Navidad,0,2025-04-13,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 36}"
+TRQ-00016,57,87.65949250863832,38,Navidad,0,2025-04-17,,NaN
+TRQ-00017,41,14.823407575465524,28,CyberLunes,0,2025-03-02,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 95}"
+TRQ-00018,20,39.66899349957617,21,Black Friday,0,2025-02-16,,NaN
+TRQ-00019,39,146.03472348100553,18,Black Friday,0,2025-02-06,,device: Mobile || browser: Android_Webview || session_mins: 101
+TRQ-00020,70,135.19554896292874,36,Black Friday,1,2025-06-16,2025-10-11,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 25}"
+TRQ-00021,19,15.148238575661864,35,Navidad,1,2025-01-12,2024-12-12,
+TRQ-00022,41,52.17471076726039,9,CyberLunes,0,2025-01-13,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 91}"
+TRQ-00023,61,53.904211351733565,38,Black Friday,0,2025-06-20,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 68}"
+TRQ-00024,-99,137.65962128375838,30,Black Friday,1,2025-02-09,2025-04-07,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 90}"
+TRQ-00025,55,13.74500217332919,34,Organico,0,2025-05-20,,device: Mobile || browser: Android_Webview || session_mins: 20
+TRQ-00026,19,29.78063057706903,32,Organico,0,2025-02-06,,
+TRQ-00027,38,161.98405622090598,3,Navidad,0,2025-02-22,,device: Mobile || browser: Android_Webview || session_mins: 30
+TRQ-00028,50,43.92348579032338,3,Organico,1,2025-02-01,2025-01-26,device: Mobile || browser: Android_Webview || session_mins: 108
+TRQ-00029,29,134.02176049185618,28,Organico,0,2025-02-03,,device: Mobile || browser: Android_Webview || session_mins: 46
+TRQ-00030,39,55.254728398878036,15,Navidad,0,2025-05-22,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 87}"
+TRQ-00031,61,28.89386462427558,23,CyberLunes,0,2025-05-27,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 104}"
+TRQ-00032,42,56.20271628989627,11,Organico,1,2025-06-19,2025-09-28,device: Mobile || browser: Android_Webview || session_mins: 28
+TRQ-00033,66,147.23071705257524,32,Organico,0,2025-02-28,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 109}"
+TRQ-00034,44,172.5823289401943,36,Navidad,0,2025-06-02,,NaN
+TRQ-00035,59,167.7417742677284,33,Organico,0,2025-05-09,,device: Mobile || browser: Android_Webview || session_mins: 15
+TRQ-00036,45,85.46487062750641,24,Navidad,0,2025-02-01,,NaN
+TRQ-00037,33,136.93617594842277,39,Organico,0,2025-02-25,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 51}"
+TRQ-00038,32,48.94701612900599,34,Organico,0,2025-01-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 16}"
+TRQ-00039,64,65.69806874959252,28,Black Friday,1,2025-05-11,2025-06-24,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 119}"
+TRQ-00040,68,180.30380551901277,37,Organico,0,2025-01-16,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 99}"
+TRQ-00041,61,12.470365467039848,7,Black Friday,0,2025-01-04,,
+TRQ-00042,72,26.246620862348934,4,Navidad,0,2025-02-13,,device: Mobile || browser: Android_Webview || session_mins: 28
+TRQ-00043,69,49.49838847774519,37,Organico,0,2025-06-09,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 48}"
+TRQ-00044,74,15.041118736025746,1,CyberLunes,0,2025-03-09,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 33}"
+TRQ-00045,20,44.47273266706149,1,Navidad,0,2025-02-26,,
+TRQ-00046,54,120.77789658424152,20,Black Friday,0,2025-03-05,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 44}"
+TRQ-00047,68,90.0706646125746,19,Navidad,0,2025-01-16,,NaN
+TRQ-00048,24,179.6076251046252,29,Black Friday,0,2025-04-20,,NaN
+TRQ-00049,38,165.31427673030376,10,Organico,1,2025-04-27,2025-06-24,NaN
+TRQ-00050,26,74.94529682259643,18,CyberLunes,1,2025-04-03,2025-05-10,device: Mobile || browser: Android_Webview || session_mins: 21
+TRQ-00051,56,59.290452351945575,28,Navidad,0,2025-05-19,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 107}"
+TRQ-00052,35,82.1415575517807,35,Black Friday,0,2025-06-16,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 73}"
+TRQ-00053,21,122.15603907781347,31,Organico,0,2025-02-17,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 78}"
+TRQ-00054,42,60.93209175634649,27,Organico,1,2025-02-27,2025-01-21,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 34}"
+TRQ-00055,31,128.58829249133547,11,Organico,0,2025-02-20,,device: Mobile || browser: Android_Webview || session_mins: 42
+TRQ-00056,150,87.78821391633568,38,Organico,1,2025-03-13,2025-04-13,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 63}"
+TRQ-00057,26,114.88896436187625,5,Organico,0,2025-05-24,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 90}"
+TRQ-00058,43,92.86404053571017,8,Black Friday,1,2025-05-27,2025-05-27,NaN
+TRQ-00059,70,65.94849431296436,34,Black Friday,1,2025-03-24,2025-04-01,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 70}"
+TRQ-00060,19,190.20612832280977,12,Black Friday,1,2025-04-27,2025-05-25,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 30}"
+TRQ-00061,37,155.08510089035457,38,Organico,0,2025-04-16,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 55}"
+TRQ-00062,45,36.62150339562598,1,Organico,0,2025-03-30,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 105}"
+TRQ-00063,64,175.00891542060344,31,CyberLunes,0,2025-01-03,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 31}"
+TRQ-00064,24,102.6119276674076,4,Organico,0,2025-04-15,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 16}"
+TRQ-00065,61,179.96492310987736,5,Navidad,0,2025-03-26,,NaN
+TRQ-00066,25,161.9724986299899,30,Navidad,0,2025-02-13,,NaN
+TRQ-00067,64,90.79056584915436,24,CyberLunes,0,2025-06-04,,device: Mobile || browser: Android_Webview || session_mins: 79
+TRQ-00068,52,14.269168580822306,3,CyberLunes,0,2025-03-13,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 68}"
+TRQ-00069,31,61.04869828313976,11,Navidad,0,2025-06-16,,NaN
+TRQ-00070,34,112.91050078556472,4,Navidad,0,2025-04-05,,NaN
+TRQ-00071,53,130.360861766968,26,Black Friday,1,2025-02-12,2025-01-16,NaN
+TRQ-00072,67,58.99866023230843,27,Navidad,0,2025-05-14,,device: Mobile || browser: Android_Webview || session_mins: 81
+TRQ-00073,57,36.47765407383659,27,Organico,0,2025-05-20,,NaN
+TRQ-00074,21,168.63674499186683,6,Organico,0,2025-03-07,,
+TRQ-00075,19,197.0364143336749,15,Organico,1,2025-02-04,2025-01-11,NaN
+TRQ-00076,23,109.88113463751031,30,Black Friday,0,2025-05-01,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 110}"
+TRQ-00077,71,42.61906431117767,37,Black Friday,0,2025-01-02,,NaN
+TRQ-00078,59,61.738392038680104,37,Organico,0,2025-05-11,,NaN
+TRQ-00079,21,13.494228544018679,37,Black Friday,0,2025-05-29,,
+TRQ-00080,71,183.7167732464948,35,CyberLunes,0,2025-03-03,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 100}"
+TRQ-00081,46,32.372705749126816,23,Black Friday,1,2025-05-30,2025-07-30,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 90}"
+TRQ-00082,35,119.53813034770818,6,Black Friday,1,2025-03-30,2025-02-20,NaN
+TRQ-00083,43,62.07049193056914,4,Black Friday,0,2025-03-10,,
+TRQ-00084,61,115.29382047800075,18,Black Friday,0,2025-05-08,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 55}"
+TRQ-00085,51,133.7698737868542,9,Black Friday,0,2025-05-21,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 62}"
+TRQ-00086,27,167.6509427043683,29,CyberLunes,0,2025-01-23,,NaN
+TRQ-00087,53,49.22004163451461,13,Navidad,0,2025-05-29,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 92}"
+TRQ-00088,150,12.089207445111292,17,Navidad,0,2025-03-24,,NaN
+TRQ-00089,48,36.00826971307338,32,Navidad,1,2025-05-10,2025-06-13,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 24}"
+TRQ-00090,65,181.00354195113997,22,CyberLunes,1,2025-01-31,2025-03-21,NaN
+TRQ-00091,32,176.0391147368779,4,Black Friday,0,2025-05-07,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 1}"
+TRQ-00092,25,123.50848941235857,5,Navidad,0,2025-04-08,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 69}"
+TRQ-00093,31,124.09820348239414,37,Navidad,0,2025-01-25,,device: Mobile || browser: Android_Webview || session_mins: 56
+TRQ-00094,40,136.35696816378854,13,Navidad,0,2025-01-15,,device: Mobile || browser: Android_Webview || session_mins: 28
+TRQ-00095,74,43.320542938455425,34,Black Friday,0,2025-02-06,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 12}"
+TRQ-00096,57,183.73826972574236,22,Organico,0,2025-01-25,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 119}"
+TRQ-00097,38,89.5663997294939,23,Black Friday,1,2025-04-06,2025-03-05,
+TRQ-00098,33,82.79632036740452,3,Black Friday,0,2025-02-25,,device: Mobile || browser: Android_Webview || session_mins: 113
+TRQ-00099,62,108.59436400373913,34,Navidad,0,2025-01-25,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 50}"
+TRQ-00100,35,18.92353368726046,32,Navidad,0,2025-06-02,,device: Mobile || browser: Android_Webview || session_mins: 3
+TRQ-00101,64,41.59384006365509,21,Black Friday,0,2025-01-27,,
+TRQ-00102,70,150.2263871210104,21,Black Friday,0,2025-03-22,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 87}"
+TRQ-00103,41,25.73174690577403,11,Organico,0,2025-06-16,,NaN
+TRQ-00104,43,124.59890079861376,39,Black Friday,0,2025-03-07,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 72}"
+TRQ-00105,42,56.61633083945098,4,CyberLunes,0,2025-03-17,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 23}"
+TRQ-00106,62,83.96616666797554,1,Black Friday,0,2025-06-29,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 91}"
+TRQ-00107,58,64.85180998643298,28,Organico,1,2025-06-13,2025-06-09,device: Mobile || browser: Android_Webview || session_mins: 29
+TRQ-00108,46,77.57781612834033,24,CyberLunes,0,2025-02-13,,device: Mobile || browser: Android_Webview || session_mins: 51
+TRQ-00109,32,146.61872198500663,35,Organico,0,2025-01-30,,device: Mobile || browser: Android_Webview || session_mins: 11
+TRQ-00110,62,66.45312596840326,13,Navidad,0,2025-06-15,,NaN
+TRQ-00111,18,117.61688165641047,34,Organico,0,2025-03-23,,
+TRQ-00112,42,100.44957641782894,11,Organico,0,2025-02-24,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 28}"
+TRQ-00113,24,136.09752141890314,36,Black Friday,1,2025-02-09,2025-06-04,NaN
+TRQ-00114,26,187.99765047170402,17,CyberLunes,1,2025-02-12,2025-02-27,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 43}"
+TRQ-00115,41,149.18869846994755,35,CyberLunes,0,2025-06-06,,device: Mobile || browser: Android_Webview || session_mins: 62
+TRQ-00116,18,50.838671932243784,18,Black Friday,0,2025-01-30,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 49}"
+TRQ-00117,61,15.924795661644087,22,Organico,0,2025-06-21,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 117}"
+TRQ-00118,25,59.830168416966764,24,Black Friday,0,2025-05-12,,device: Mobile || browser: Android_Webview || session_mins: 71
+TRQ-00119,41,123.06480683304842,19,Black Friday,1,2025-05-19,2025-07-28,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 1}"
+TRQ-00120,28,19.770904562007566,37,Black Friday,0,2025-05-23,,device: Mobile || browser: Android_Webview || session_mins: 8
+TRQ-00121,68,104.30958696823491,39,Organico,0,2025-06-25,,device: Mobile || browser: Android_Webview || session_mins: 8
+TRQ-00122,34,123.40014129420895,21,CyberLunes,0,2025-02-12,,NaN
+TRQ-00123,25,73.50633925522256,8,CyberLunes,0,2025-04-05,,device: Mobile || browser: Android_Webview || session_mins: 36
+TRQ-00124,52,156.47331871170616,28,CyberLunes,1,2025-06-10,2025-06-07,device: Mobile || browser: Android_Webview || session_mins: 77
+TRQ-00125,52,30.253668095416643,5,Organico,0,2025-02-02,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 48}"
+TRQ-00126,50,24.276178529803666,17,Navidad,1,2025-06-20,2025-05-22,device: Mobile || browser: Android_Webview || session_mins: 13
+TRQ-00127,22,148.35586367868464,37,Black Friday,0,2025-06-10,,
+TRQ-00128,59,104.14335007917771,36,CyberLunes,1,2025-01-27,2025-05-11,NaN
+TRQ-00129,56,140.79645532126986,19,Black Friday,0,2025-04-26,,
+TRQ-00130,58,92.61719433471178,27,CyberLunes,0,2025-05-10,,device: Mobile || browser: Android_Webview || session_mins: 35
+TRQ-00131,45,56.81638631543029,34,Organico,1,2025-02-26,2025-02-27,device: Mobile || browser: Android_Webview || session_mins: 7
+TRQ-00132,24,165.62944035809795,11,Organico,0,2025-05-03,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 114}"
+TRQ-00133,26,161.88901700410605,12,Black Friday,0,2025-04-17,,NaN
+TRQ-00134,25,141.99232946234108,21,Organico,0,2025-05-11,,
+TRQ-00135,29,61.70757607369291,11,Black Friday,0,2025-03-23,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 58}"
+TRQ-00136,51,122.14382670512654,39,Organico,0,2025-06-08,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 50}"
+TRQ-00137,50,78.58504041860509,28,Organico,1,2025-05-01,2025-04-14,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 115}"
+TRQ-00138,65,27.400593932060488,5,Black Friday,0,2025-02-22,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 66}"
+TRQ-00139,72,184.28957933782613,17,Organico,0,2025-04-02,,device: Mobile || browser: Android_Webview || session_mins: 82
+TRQ-00140,40,35.99553987460267,20,Black Friday,1,2025-05-18,2025-09-12,
+TRQ-00141,41,190.54509722595247,12,Black Friday,0,2025-01-23,,
+TRQ-00142,54,94.74109686201159,6,CyberLunes,1,2025-02-04,2025-03-01,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 7}"
+TRQ-00143,52,45.17525647933773,17,Black Friday,1,2025-04-21,2025-08-16,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 2}"
+TRQ-00144,61,112.96118000188805,19,Organico,0,2025-02-19,,NaN
+TRQ-00145,57,175.85970881651758,26,Organico,0,2025-05-10,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 115}"
+TRQ-00146,39,149.12272841781663,32,Navidad,0,2025-03-15,,
+TRQ-00147,44,163.24661809367544,6,Organico,0,2025-03-26,,
+TRQ-00148,52,135.16883967503628,36,Organico,1,2025-02-23,2025-02-02,NaN
+TRQ-00149,18,141.53254725839196,38,CyberLunes,0,2025-04-11,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 87}"
+TRQ-00150,52,171.34717379741068,11,Black Friday,0,2025-05-05,,
+TRQ-00151,54,57.43692168324533,33,CyberLunes,0,2025-06-18,,NaN
+TRQ-00152,64,102.9907430921967,24,Navidad,1,2025-02-15,2025-05-31,NaN
+TRQ-00153,31,52.02979394572442,23,Organico,0,2025-05-18,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 52}"
+TRQ-00154,20,197.65692151936292,15,CyberLunes,0,2025-04-16,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 91}"
+TRQ-00155,18,189.3712745404565,27,Organico,0,2025-05-31,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 113}"
+TRQ-00156,22,17.49109416001612,11,Navidad,1,2025-05-27,2025-05-02,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 64}"
+TRQ-00157,43,144.0592827779808,17,Navidad,0,2025-04-17,,
+TRQ-00158,72,185.7971803089765,14,Black Friday,0,2025-02-13,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 115}"
+TRQ-00159,31,44.30931557419337,27,Black Friday,0,2025-06-17,,device: Mobile || browser: Android_Webview || session_mins: 17
+TRQ-00160,56,117.9095938049996,18,CyberLunes,0,2025-05-15,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 38}"
+TRQ-00161,44,183.94277654172794,28,Black Friday,0,2025-02-18,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 112}"
+TRQ-00162,26,16.44973593130178,4,CyberLunes,1,2025-05-07,2025-03-26,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 97}"
+TRQ-00163,32,142.50985077689958,7,Navidad,0,2025-01-08,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 90}"
+TRQ-00164,32,66.49631140078465,35,CyberLunes,0,2025-01-17,,device: Mobile || browser: Android_Webview || session_mins: 18
+TRQ-00165,43,185.63527712154078,9,Organico,0,2025-05-10,,device: Mobile || browser: Android_Webview || session_mins: 16
+TRQ-00166,59,194.50106658141988,8,Navidad,0,2025-04-26,,NaN
+TRQ-00167,30,189.41063293155244,17,Navidad,1,2025-02-07,2025-03-03,NaN
+TRQ-00168,68,100.10070116491812,17,Black Friday,0,2025-06-15,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 27}"
+TRQ-00169,49,173.78810368796954,33,Navidad,0,2025-05-06,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 9}"
+TRQ-00170,56,170.46438572166338,32,Organico,0,2025-03-23,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 37}"
+TRQ-00171,66,70.62908991621856,8,CyberLunes,0,2025-03-04,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 4}"
+TRQ-00172,69,167.4939400886287,19,Black Friday,0,2025-03-14,,device: Mobile || browser: Android_Webview || session_mins: 91
+TRQ-00173,49,17.031450595943596,38,Organico,0,2025-05-06,,NaN
+TRQ-00174,21,123.29127691159007,3,CyberLunes,0,2025-06-11,,
+TRQ-00175,47,53.70167908466358,5,CyberLunes,0,2025-03-08,,device: Mobile || browser: Android_Webview || session_mins: 72
+TRQ-00176,54,32.90770829768297,13,Black Friday,0,2025-01-31,,device: Mobile || browser: Android_Webview || session_mins: 106
+TRQ-00177,40,24.62110830954974,31,CyberLunes,0,2025-01-21,,device: Mobile || browser: Android_Webview || session_mins: 107
+TRQ-00178,56,142.29486741684656,16,Navidad,1,2025-03-24,2025-05-09,device: Mobile || browser: Android_Webview || session_mins: 99
+TRQ-00179,62,74.57624311593257,32,Black Friday,0,2025-04-18,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 78}"
+TRQ-00180,32,147.70568659046467,22,Organico,1,2025-06-02,2025-05-05,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 113}"
+TRQ-00181,60,22.41770475179905,29,Organico,0,2025-05-13,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 80}"
+TRQ-00182,46,69.90516418781596,22,Navidad,0,2025-02-07,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 37}"
+TRQ-00183,53,112.50334555131407,3,Navidad,0,2025-05-13,,NaN
+TRQ-00184,30,160.23740131940306,10,Organico,0,2025-03-19,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 35}"
+TRQ-00185,49,70.56297555709328,21,Black Friday,0,2025-03-31,,NaN
+TRQ-00186,24,128.91936152303174,16,Organico,1,2025-05-27,2025-08-04,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 59}"
+TRQ-00187,68,178.33577216487555,12,Organico,0,2025-03-30,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 22}"
+TRQ-00188,39,127.01400575463786,2,Organico,0,2025-06-26,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 1}"
+TRQ-00189,45,54.262300203190414,24,Navidad,0,2025-02-03,,NaN
+TRQ-00190,19,14.636148495742223,35,Black Friday,0,2025-02-28,,device: Mobile || browser: Android_Webview || session_mins: 31
+TRQ-00191,59,175.31878604117668,30,Black Friday,0,2025-01-29,,device: Mobile || browser: Android_Webview || session_mins: 53
+TRQ-00192,62,14.041188061573557,30,Organico,0,2025-02-05,,device: Mobile || browser: Android_Webview || session_mins: 109
+TRQ-00193,74,176.1933178099979,35,CyberLunes,1,2025-05-06,2025-07-23,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 23}"
+TRQ-00194,70,110.49805546517028,19,Organico,1,2025-05-19,2025-08-11,device: Mobile || browser: Android_Webview || session_mins: 26
+TRQ-00195,23,188.42286271745027,8,Black Friday,0,2025-03-07,,NaN
+TRQ-00196,45,161.76881479699642,26,CyberLunes,0,2025-02-12,,device: Mobile || browser: Android_Webview || session_mins: 72
+TRQ-00197,45,199.60748100133412,7,CyberLunes,1,2025-03-27,2025-02-27,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 27}"
+TRQ-00198,61,76.63524493582493,30,CyberLunes,1,2025-05-18,2025-08-25,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 58}"
+TRQ-00199,61,155.7657748969141,7,Navidad,0,2025-04-22,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 73}"
+TRQ-00200,37,86.36687358575601,3,Black Friday,1,2025-01-16,2025-03-17,NaN
+TRQ-00201,47,101.17636785774268,1,Organico,0,2025-03-11,,
+TRQ-00202,28,129.22603801149032,36,Navidad,1,2025-04-16,2025-06-03,NaN
+TRQ-00203,72,175.99865169540436,25,CyberLunes,0,2025-05-31,,
+TRQ-00204,45,196.97585914786606,37,Navidad,0,2025-03-06,,NaN
+TRQ-00205,42,155.97194863425847,1,Organico,1,2025-02-11,2025-01-07,device: Mobile || browser: Android_Webview || session_mins: 99
+TRQ-00206,56,89.37568861179342,15,Organico,0,2025-03-13,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 3}"
+TRQ-00207,50,90.05783043264333,37,CyberLunes,0,2025-02-26,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 33}"
+TRQ-00208,18,150.14063730188937,13,Organico,0,2025-06-01,,NaN
+TRQ-00209,74,55.36765769597744,8,Organico,1,2025-01-26,2025-02-17,device: Mobile || browser: Android_Webview || session_mins: 40
+TRQ-00210,44,30.990081494964986,5,CyberLunes,1,2025-04-16,2025-03-26,
+TRQ-00211,74,77.37820995174754,9,CyberLunes,0,2025-05-15,,NaN
+TRQ-00212,69,64.57540841427553,1,Navidad,0,2025-04-30,,NaN
+TRQ-00213,30,66.29854288663812,36,CyberLunes,1,2025-06-12,2025-08-19,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 82}"
+TRQ-00214,58,54.38547269948289,35,Organico,0,2025-01-10,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 118}"
+TRQ-00215,20,17.99770603090876,2,Black Friday,0,2025-03-02,,device: Mobile || browser: Android_Webview || session_mins: 98
+TRQ-00216,56,13.396047599348623,23,Organico,0,2025-05-06,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 37}"
+TRQ-00217,23,197.667254049846,9,Navidad,0,2025-02-19,,
+TRQ-00218,25,91.27689540981385,34,CyberLunes,0,2025-02-21,,
+TRQ-00219,44,83.02206296033953,14,CyberLunes,0,2025-03-12,,device: Mobile || browser: Android_Webview || session_mins: 67
+TRQ-00220,26,139.13298371168327,4,Navidad,0,2025-02-07,,NaN
+TRQ-00221,54,51.46823869436219,30,Organico,1,2025-02-01,2025-04-22,device: Mobile || browser: Android_Webview || session_mins: 89
+TRQ-00222,50,190.49262495054282,31,Organico,0,2025-06-19,,device: Mobile || browser: Android_Webview || session_mins: 93
+TRQ-00223,68,159.4055527389549,38,Black Friday,0,2025-03-04,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 32}"
+TRQ-00224,59,26.98809043932931,11,Black Friday,0,2025-04-04,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 101}"
+TRQ-00225,61,89.34034739913639,35,CyberLunes,0,2025-01-15,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 68}"
+TRQ-00226,-99,177.0324784368113,8,Navidad,0,2025-06-14,,NaN
+TRQ-00227,32,189.49908423536795,3,CyberLunes,1,2025-06-14,2025-06-11,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 95}"
+TRQ-00228,71,98.80628713747525,14,Black Friday,0,2025-03-21,,
+TRQ-00229,49,126.54816395003446,13,Navidad,1,2025-01-09,2025-03-15,NaN
+TRQ-00230,49,41.73644975749429,32,Organico,0,2025-06-04,,NaN
+TRQ-00231,41,198.32203896602553,34,Black Friday,0,2025-02-06,,
+TRQ-00232,58,54.017623262854244,19,Black Friday,0,2025-02-18,,
+TRQ-00233,69,189.11903708567388,38,Navidad,1,2025-03-27,2025-07-05,NaN
+TRQ-00234,66,133.43286330855,16,Navidad,1,2025-01-29,2025-04-28,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 116}"
+TRQ-00235,66,125.46999102698324,2,Black Friday,0,2025-02-21,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 41}"
+TRQ-00236,69,107.41081709313663,17,Organico,0,2025-04-15,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 42}"
+TRQ-00237,29,53.82726422637415,34,Organico,0,2025-06-20,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 81}"
+TRQ-00238,56,43.54032608104657,16,Black Friday,0,2025-04-12,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 13}"
+TRQ-00239,19,51.89237972333332,38,Black Friday,0,2025-01-30,,device: Mobile || browser: Android_Webview || session_mins: 36
+TRQ-00240,20,45.42326980740836,2,Navidad,1,2025-05-08,2025-05-22,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 117}"
+TRQ-00241,66,158.12104997768313,2,Organico,1,2025-03-24,2025-03-18,device: Mobile || browser: Android_Webview || session_mins: 4
+TRQ-00242,54,76.52379924167872,26,CyberLunes,0,2025-01-11,,NaN
+TRQ-00243,66,20.99010854704531,13,Navidad,1,2025-04-17,2025-06-22,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 84}"
+TRQ-00244,-99,194.12949972675415,31,Navidad,0,2025-06-17,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 29}"
+TRQ-00245,34,177.91931814305087,34,Black Friday,0,2025-01-02,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 21}"
+TRQ-00246,66,186.27293380709045,39,Navidad,0,2025-02-09,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 105}"
+TRQ-00247,19,199.03248630282272,3,Organico,0,2025-01-22,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 51}"
+TRQ-00248,19,43.040097351702585,8,CyberLunes,1,2025-03-07,2025-04-10,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 22}"
+TRQ-00249,45,85.28598359150516,23,Black Friday,0,2025-01-16,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 113}"
+TRQ-00250,71,154.06531038377736,14,Black Friday,0,2025-05-13,,NaN
+TRQ-00251,40,142.24391743022053,27,Organico,0,2025-03-03,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 86}"
+TRQ-00252,54,39.24022220457246,29,Organico,0,2025-05-29,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 54}"
+TRQ-00253,49,165.00829374821737,39,Black Friday,0,2025-05-19,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 39}"
+TRQ-00254,50,52.64370864896553,39,Organico,0,2025-03-29,,device: Mobile || browser: Android_Webview || session_mins: 2
+TRQ-00255,18,52.52534681629839,1,Navidad,0,2025-04-16,,device: Mobile || browser: Android_Webview || session_mins: 115
+TRQ-00256,36,112.02514034974858,17,Navidad,1,2025-02-04,2025-04-26,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 67}"
+TRQ-00257,19,122.6585876199236,30,Black Friday,1,2025-05-05,2025-08-02,NaN
+TRQ-00258,70,120.21637948918412,13,Black Friday,0,2025-04-21,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 100}"
+TRQ-00259,61,27.382499105573427,21,Black Friday,1,2025-06-26,2025-05-19,NaN
+TRQ-00260,43,176.71756389977227,19,Navidad,0,2025-02-03,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 65}"
+TRQ-00261,49,60.464008091854154,19,CyberLunes,0,2025-04-09,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 104}"
+TRQ-00262,23,34.60783504373279,25,Organico,0,2025-03-03,,NaN
+TRQ-00263,49,178.86213517510566,22,CyberLunes,0,2025-01-11,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 44}"
+TRQ-00264,72,191.57378466365313,31,Black Friday,0,2025-03-26,,
+TRQ-00265,21,173.80424728043562,17,Navidad,1,2025-03-07,2025-06-14,
+TRQ-00266,72,163.80805419772685,23,Organico,0,2025-03-19,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 96}"
+TRQ-00267,28,134.49597632141413,32,CyberLunes,0,2025-01-02,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 4}"
+TRQ-00268,73,114.66290041573647,10,Black Friday,0,2025-05-14,,device: Mobile || browser: Android_Webview || session_mins: 84
+TRQ-00269,34,26.527484383167927,10,Organico,1,2025-03-22,2025-07-04,device: Mobile || browser: Android_Webview || session_mins: 26
+TRQ-00270,55,87.60611048343276,36,Black Friday,0,2025-01-16,,device: Mobile || browser: Android_Webview || session_mins: 74
+TRQ-00271,41,80.81081823233966,8,Black Friday,0,2025-01-29,,
+TRQ-00272,22,59.353218914461976,20,Organico,0,2025-01-24,,NaN
+TRQ-00273,69,147.44982160083114,32,CyberLunes,0,2025-04-20,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 83}"
+TRQ-00274,51,104.21638966496646,14,Black Friday,0,2025-04-18,,
+TRQ-00275,23,25.398781022453107,28,Black Friday,1,2025-05-26,2025-07-11,device: Mobile || browser: Android_Webview || session_mins: 55
+TRQ-00276,39,51.83480837046415,24,Black Friday,0,2025-04-24,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 116}"
+TRQ-00277,28,139.81916509532323,15,Black Friday,0,2025-04-09,,device: Mobile || browser: Android_Webview || session_mins: 9
+TRQ-00278,65,24.464863303157035,22,CyberLunes,0,2025-05-22,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 117}"
+TRQ-00279,33,171.72931366926605,30,Black Friday,1,2025-05-23,2025-07-23,NaN
+TRQ-00280,50,104.07784013265513,4,CyberLunes,0,2025-05-20,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 19}"
+TRQ-00281,26,101.31144969206312,13,Organico,0,2025-01-29,,
+TRQ-00282,23,122.55747908530834,23,Black Friday,1,2025-02-12,2025-04-08,
+TRQ-00283,33,166.68938352577834,8,Black Friday,0,2025-04-10,,
+TRQ-00284,46,76.08374950141668,18,Organico,0,2025-03-03,,
+TRQ-00285,20,138.82306898622207,12,Navidad,0,2025-05-04,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 108}"
+TRQ-00286,37,117.4890731592003,31,CyberLunes,0,2025-03-06,,device: Mobile || browser: Android_Webview || session_mins: 85
+TRQ-00287,-99,60.73537133219005,14,Organico,0,2025-02-01,,device: Mobile || browser: Android_Webview || session_mins: 71
+TRQ-00288,36,176.93969740748003,34,Black Friday,0,2025-03-23,,device: Mobile || browser: Android_Webview || session_mins: 39
+TRQ-00289,43,161.51094410531633,18,CyberLunes,0,2025-01-11,,
+TRQ-00290,20,135.10584858510083,34,Organico,0,2025-01-09,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 57}"
+TRQ-00291,36,171.61052852790596,11,Navidad,0,2025-05-30,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 52}"
+TRQ-00292,37,174.78589818236244,12,Black Friday,0,2025-03-01,,device: Mobile || browser: Android_Webview || session_mins: 28
+TRQ-00293,49,144.5889655758566,15,Black Friday,0,2025-06-28,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 7}"
+TRQ-00294,24,169.0325323890977,31,Navidad,1,2025-01-31,2025-05-02,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 35}"
+TRQ-00295,69,142.51957771716388,29,Black Friday,0,2025-05-26,,device: Mobile || browser: Android_Webview || session_mins: 52
+TRQ-00296,58,139.22674663445707,26,Organico,1,2025-01-21,2024-12-27,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 36}"
+TRQ-00297,50,127.53616186088502,18,Black Friday,0,2025-02-18,,NaN
+TRQ-00298,57,153.01616151595184,32,Organico,0,2025-05-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 72}"
+TRQ-00299,56,40.134970005684,22,Navidad,0,2025-02-07,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 116}"
+TRQ-00300,35,177.3654442477964,38,Organico,0,2025-05-10,,device: Mobile || browser: Android_Webview || session_mins: 18
+TRQ-00301,57,175.65027027159408,17,Organico,0,2025-05-13,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 15}"
+TRQ-00302,18,15.556983776566238,23,Navidad,0,2025-04-11,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 16}"
+TRQ-00303,28,166.9051826073049,24,Black Friday,1,2025-02-24,2025-03-27,
+TRQ-00304,45,34.48527481995458,8,Black Friday,0,2025-05-03,,device: Mobile || browser: Android_Webview || session_mins: 34
+TRQ-00305,74,73.67258230923696,6,Black Friday,0,2025-01-26,,NaN
+TRQ-00306,42,151.26656869540548,5,Organico,0,2025-05-12,,device: Mobile || browser: Android_Webview || session_mins: 86
+TRQ-00307,67,40.54438024917856,29,Organico,1,2025-01-10,2025-02-13,
+TRQ-00308,40,165.41373458262183,28,Black Friday,0,2025-02-04,,
+TRQ-00309,48,168.10549381197097,11,CyberLunes,0,2025-02-13,,NaN
+TRQ-00310,47,106.41886941455888,1,Black Friday,1,2025-03-16,2025-03-17,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 89}"
+TRQ-00311,59,11.21331562619838,19,Navidad,0,2025-04-05,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 88}"
+TRQ-00312,52,64.53724530323342,9,Black Friday,1,2025-01-23,2025-04-26,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 30}"
+TRQ-00313,24,127.21611449139102,27,Organico,0,2025-03-12,,NaN
+TRQ-00314,33,196.42537382521047,34,Organico,0,2025-05-11,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 63}"
+TRQ-00315,43,130.04457013316699,4,CyberLunes,1,2025-04-05,2025-07-03,
+TRQ-00316,65,59.362680402190364,36,Black Friday,0,2025-02-02,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 39}"
+TRQ-00317,74,130.46108358892616,18,Black Friday,0,2025-04-17,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 87}"
+TRQ-00318,69,112.59722214601254,15,Black Friday,1,2025-05-25,2025-07-14,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 36}"
+TRQ-00319,66,158.17062507871728,13,CyberLunes,0,2025-01-02,,NaN
+TRQ-00320,150,30.3263213771221,19,CyberLunes,0,2025-03-14,,NaN
+TRQ-00321,18,154.59530147538533,6,Organico,0,2025-06-26,,
+TRQ-00322,65,112.84064994846095,12,Black Friday,0,2025-02-20,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 76}"
+TRQ-00323,29,192.968480733209,37,Black Friday,1,2025-05-22,2025-07-17,NaN
+TRQ-00324,22,74.95571154735036,17,Organico,0,2025-01-16,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 32}"
+TRQ-00325,54,130.19815969545016,23,Organico,0,2025-02-23,,NaN
+TRQ-00326,49,187.08534004690333,26,CyberLunes,0,2025-06-22,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 88}"
+TRQ-00327,72,29.47684831822906,29,Navidad,1,2025-01-09,2025-05-03,
+TRQ-00328,26,188.07341257492573,33,Black Friday,0,2025-03-16,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 36}"
+TRQ-00329,58,140.69828723715455,27,Organico,0,2025-02-16,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 57}"
+TRQ-00330,52,22.88904122998266,25,Organico,1,2025-03-11,2025-05-23,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 45}"
+TRQ-00331,36,67.1830777198951,10,Navidad,0,2025-04-25,,
+TRQ-00332,65,144.5526968426035,23,Black Friday,0,2025-05-28,,NaN
+TRQ-00333,33,22.796614279066624,21,Organico,0,2025-06-16,,device: Mobile || browser: Android_Webview || session_mins: 81
+TRQ-00334,20,120.61238743349192,21,CyberLunes,0,2025-05-04,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 105}"
+TRQ-00335,37,75.71778082106178,13,CyberLunes,0,2025-05-20,,NaN
+TRQ-00336,41,127.97394837582065,37,Black Friday,0,2025-04-28,,device: Mobile || browser: Android_Webview || session_mins: 58
+TRQ-00337,71,18.690986424377442,33,CyberLunes,1,2025-02-13,2025-06-02,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 26}"
+TRQ-00338,73,175.5919931689515,24,Black Friday,0,2025-01-21,,NaN
+TRQ-00339,50,194.9629041437054,11,Organico,0,2025-05-29,,device: Mobile || browser: Android_Webview || session_mins: 14
+TRQ-00340,41,194.0867925042814,17,Organico,0,2025-01-22,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 91}"
+TRQ-00341,69,152.4338480311557,4,Black Friday,1,2025-03-24,2025-05-26,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 112}"
+TRQ-00342,28,34.71638562482008,25,Black Friday,0,2025-02-27,,
+TRQ-00343,66,154.0700072265143,30,Black Friday,0,2025-06-28,,device: Mobile || browser: Android_Webview || session_mins: 59
+TRQ-00344,25,14.671514127172287,9,Black Friday,0,2025-03-16,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 40}"
+TRQ-00345,53,14.203474790509478,21,CyberLunes,0,2025-04-09,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 34}"
+TRQ-00346,55,71.48594163841284,20,Organico,1,2025-06-04,2025-05-08,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 94}"
+TRQ-00347,57,102.84220617688649,19,Black Friday,1,2025-06-08,2025-08-28,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 25}"
+TRQ-00348,37,156.3774093834807,19,Black Friday,0,2025-04-21,,
+TRQ-00349,52,139.826121555236,12,CyberLunes,0,2025-04-26,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 103}"
+TRQ-00350,65,94.72151421158219,37,Organico,0,2025-06-09,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 57}"
+TRQ-00351,42,61.98906659351652,17,Organico,0,2025-02-12,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 76}"
+TRQ-00352,52,199.45365502996512,37,Organico,0,2025-03-10,,NaN
+TRQ-00353,42,90.97444742483486,39,Organico,0,2025-03-12,,
+TRQ-00354,46,95.76353462263835,28,Black Friday,0,2025-03-20,,device: Mobile || browser: Android_Webview || session_mins: 20
+TRQ-00355,35,41.08852602641714,35,Black Friday,0,2025-04-01,,device: Mobile || browser: Android_Webview || session_mins: 94
+TRQ-00356,63,161.0138142624866,18,Navidad,0,2025-04-22,,device: Mobile || browser: Android_Webview || session_mins: 113
+TRQ-00357,35,141.79962289848285,14,Black Friday,0,2025-04-23,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 87}"
+TRQ-00358,19,51.946226429864474,35,Navidad,0,2025-04-14,,
+TRQ-00359,71,25.65239866701011,7,CyberLunes,0,2025-05-26,,NaN
+TRQ-00360,52,139.29486739419548,13,CyberLunes,0,2025-01-20,,device: Mobile || browser: Android_Webview || session_mins: 97
+TRQ-00361,33,134.3571307134157,18,Navidad,0,2025-06-29,,NaN
+TRQ-00362,58,61.91931012965977,37,Navidad,1,2025-03-12,2025-06-28,
+TRQ-00363,53,190.66407682757796,13,Organico,1,2025-03-05,2025-05-09,NaN
+TRQ-00364,50,38.70099943837104,36,CyberLunes,0,2025-03-17,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 55}"
+TRQ-00365,21,92.14361219809436,31,Navidad,0,2025-06-08,,
+TRQ-00366,50,189.28702483184378,2,CyberLunes,1,2025-06-03,2025-07-29,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 68}"
+TRQ-00367,31,89.74819021596323,16,CyberLunes,0,2025-04-15,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 61}"
+TRQ-00368,38,131.31993005617625,9,Black Friday,0,2025-03-17,,NaN
+TRQ-00369,65,85.54293561293092,9,CyberLunes,1,2025-05-09,2025-06-03,
+TRQ-00370,37,62.1008884462473,38,Black Friday,1,2025-06-04,2025-05-13,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 117}"
+TRQ-00371,73,196.95575311236738,11,Black Friday,1,2025-02-26,2025-03-20,device: Mobile || browser: Android_Webview || session_mins: 106
+TRQ-00372,25,87.77346119985818,22,Black Friday,1,2025-01-23,2025-04-15,device: Mobile || browser: Android_Webview || session_mins: 34
+TRQ-00373,24,179.87884869903553,33,CyberLunes,1,2025-03-31,2025-05-17,device: Mobile || browser: Android_Webview || session_mins: 53
+TRQ-00374,20,53.69137511930637,36,CyberLunes,0,2025-01-20,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 21}"
+TRQ-00375,34,50.489893764765824,23,CyberLunes,0,2025-06-09,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 82}"
+TRQ-00376,50,15.915475748057158,34,CyberLunes,0,2025-01-27,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 56}"
+TRQ-00377,65,133.81669682141816,9,Navidad,0,2025-06-20,,device: Mobile || browser: Android_Webview || session_mins: 27
+TRQ-00378,29,80.02000530751462,24,Black Friday,0,2025-06-19,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 65}"
+TRQ-00379,68,174.22806746953103,8,Black Friday,0,2025-01-24,,NaN
+TRQ-00380,39,99.90988227139586,7,Black Friday,0,2025-02-17,,
+TRQ-00381,72,193.95675130379712,36,Navidad,0,2025-01-14,,device: Mobile || browser: Android_Webview || session_mins: 50
+TRQ-00382,39,45.24984798359302,18,Organico,0,2025-03-08,,
+TRQ-00383,63,175.03840191156604,3,Organico,0,2025-05-25,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 68}"
+TRQ-00384,47,157.55340203043093,28,Organico,0,2025-03-15,,
+TRQ-00385,55,156.47515048236988,6,Black Friday,0,2025-06-06,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 65}"
+TRQ-00386,55,170.50881334220867,21,Navidad,0,2025-03-19,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 65}"
+TRQ-00387,62,154.59455827916977,28,Navidad,0,2025-06-13,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 47}"
+TRQ-00388,68,128.98186110996892,1,Black Friday,0,2025-06-19,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 68}"
+TRQ-00389,71,34.93652675965364,36,Black Friday,0,2025-02-01,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 107}"
+TRQ-00390,25,16.179974103337862,21,Black Friday,0,2025-03-27,,device: Mobile || browser: Android_Webview || session_mins: 72
+TRQ-00391,44,184.9610910849805,35,Organico,0,2025-06-10,,NaN
+TRQ-00392,44,127.16355975894022,13,Navidad,0,2025-03-01,,NaN
+TRQ-00393,51,161.3420852854735,10,Organico,1,2025-02-11,2025-04-12,
+TRQ-00394,38,101.48924678738452,10,Black Friday,0,2025-04-23,,
+TRQ-00395,47,32.28855590285495,13,Black Friday,0,2025-04-07,,
+TRQ-00396,50,33.78530051848458,37,CyberLunes,0,2025-06-18,,
+TRQ-00397,45,140.25740457350457,38,CyberLunes,0,2025-05-03,,NaN
+TRQ-00398,64,91.75812003089791,24,Organico,0,2025-06-06,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 5}"
+TRQ-00399,50,48.099698073063976,2,Navidad,0,2025-06-15,,
+TRQ-00400,22,103.402963880873,22,Black Friday,0,2025-04-16,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 108}"
+TRQ-00401,65,22.19969804427548,17,Organico,0,2025-03-16,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 9}"
+TRQ-00402,36,120.57456636373577,36,Black Friday,0,2025-05-13,,NaN
+TRQ-00403,21,61.10874684266856,14,Organico,0,2025-04-10,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 24}"
+TRQ-00404,52,161.53622912106576,10,Black Friday,0,2025-05-07,,NaN
+TRQ-00405,66,68.96877219547902,35,Black Friday,1,2025-05-19,2025-06-03,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 108}"
+TRQ-00406,34,96.49182832554223,25,Black Friday,0,2025-06-25,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 17}"
+TRQ-00407,61,12.20790258253912,3,CyberLunes,0,2025-03-17,,device: Mobile || browser: Android_Webview || session_mins: 71
+TRQ-00408,45,23.764908680966187,38,CyberLunes,0,2025-01-15,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 44}"
+TRQ-00409,150,84.57377571727011,17,Navidad,0,2025-02-08,,device: Mobile || browser: Android_Webview || session_mins: 106
+TRQ-00410,46,101.18837859625347,12,Organico,1,2025-05-21,2025-09-10,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 68}"
+TRQ-00411,63,124.00390414266771,24,Organico,0,2025-02-15,,NaN
+TRQ-00412,70,65.41588995476761,29,CyberLunes,1,2025-05-26,2025-04-21,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 88}"
+TRQ-00413,23,142.04655836404308,25,Navidad,0,2025-06-13,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 63}"
+TRQ-00414,52,173.42325546594887,36,CyberLunes,1,2025-03-17,2025-06-10,device: Mobile || browser: Android_Webview || session_mins: 29
+TRQ-00415,58,158.17168788973646,26,CyberLunes,0,2025-06-19,,device: Mobile || browser: Android_Webview || session_mins: 116
+TRQ-00416,54,17.527576816187857,38,Navidad,1,2025-01-30,2025-03-12,device: Mobile || browser: Android_Webview || session_mins: 103
+TRQ-00417,41,101.2963199789875,1,Navidad,0,2025-01-19,,NaN
+TRQ-00418,46,29.936733899453223,20,CyberLunes,0,2025-01-21,,device: Mobile || browser: Android_Webview || session_mins: 66
+TRQ-00419,66,55.98855301388022,28,CyberLunes,0,2025-01-15,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 85}"
+TRQ-00420,63,197.46589272075784,16,Organico,0,2025-06-12,,NaN
+TRQ-00421,70,37.07415315128752,17,CyberLunes,1,2025-06-27,2025-05-29,
+TRQ-00422,48,104.78874915575766,28,Black Friday,0,2025-02-24,,device: Mobile || browser: Android_Webview || session_mins: 36
+TRQ-00423,52,127.44958952044263,12,Navidad,0,2025-02-01,,device: Mobile || browser: Android_Webview || session_mins: 85
+TRQ-00424,50,143.46834440337975,27,CyberLunes,0,2025-02-28,,device: Mobile || browser: Android_Webview || session_mins: 90
+TRQ-00425,69,116.33324986251368,30,CyberLunes,0,2025-04-15,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 103}"
+TRQ-00426,38,11.856461009644896,34,Black Friday,0,2025-06-20,,device: Mobile || browser: Android_Webview || session_mins: 58
+TRQ-00427,49,72.02764856635847,37,Organico,0,2025-05-09,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 106}"
+TRQ-00428,40,108.36521224309517,6,Navidad,0,2025-06-08,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 39}"
+TRQ-00429,50,26.694634837518336,7,Navidad,1,2025-01-26,2025-05-15,device: Mobile || browser: Android_Webview || session_mins: 7
+TRQ-00430,20,76.61911692974435,32,Organico,0,2025-01-20,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 18}"
+TRQ-00431,35,16.30859067035965,32,Organico,0,2025-05-17,,NaN
+TRQ-00432,42,24.92991445945394,25,Black Friday,0,2025-01-04,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 102}"
+TRQ-00433,59,85.41542247830326,33,Black Friday,0,2025-03-28,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 48}"
+TRQ-00434,48,35.215993268181464,7,Navidad,0,2025-05-26,,device: Mobile || browser: Android_Webview || session_mins: 84
+TRQ-00435,71,117.83276116969604,12,Navidad,0,2025-05-23,,
+TRQ-00436,20,140.99834413608048,16,Navidad,0,2025-01-10,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 63}"
+TRQ-00437,57,162.11147283072575,16,Navidad,0,2025-04-05,,NaN
+TRQ-00438,63,48.02854640651392,36,CyberLunes,1,2025-05-30,2025-08-30,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 52}"
+TRQ-00439,41,41.821690629223255,13,Black Friday,0,2025-06-15,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 24}"
+TRQ-00440,67,29.867889663536047,7,Black Friday,0,2025-05-20,,NaN
+TRQ-00441,49,130.92174741329097,36,CyberLunes,1,2025-01-21,2025-04-16,NaN
+TRQ-00442,64,144.23038803251123,9,CyberLunes,1,2025-02-05,2025-05-30,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 66}"
+TRQ-00443,39,16.001367516871987,32,Navidad,0,2025-02-23,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 33}"
+TRQ-00444,40,187.88032678630105,11,Navidad,0,2025-06-25,,NaN
+TRQ-00445,19,19.87454389377976,8,Black Friday,0,2025-04-21,,
+TRQ-00446,44,112.84630370720339,33,Black Friday,1,2025-05-17,2025-05-23,
+TRQ-00447,59,144.72149869567411,23,Black Friday,1,2025-01-05,2025-03-15,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 90}"
+TRQ-00448,19,175.48413351175626,25,CyberLunes,0,2025-06-05,,device: Mobile || browser: Android_Webview || session_mins: 49
+TRQ-00449,43,145.67651710516128,8,Navidad,0,2025-06-22,,NaN
+TRQ-00450,34,162.32833578326046,22,Organico,0,2025-06-18,,NaN
+TRQ-00451,57,74.49553658313314,4,Organico,1,2025-04-13,2025-04-28,device: Mobile || browser: Android_Webview || session_mins: 81
+TRQ-00452,50,164.8167716118373,3,Navidad,0,2025-02-17,,
+TRQ-00453,26,25.22182081308828,29,Navidad,0,2025-04-05,,
+TRQ-00454,60,180.01516465150024,29,CyberLunes,1,2025-06-22,2025-07-16,NaN
+TRQ-00455,71,114.04255146920988,34,Black Friday,0,2025-02-18,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 9}"
+TRQ-00456,65,165.2865762928738,34,CyberLunes,0,2025-04-02,,
+TRQ-00457,56,95.94047405847702,28,Organico,0,2025-03-26,,NaN
+TRQ-00458,46,132.27976208733975,13,CyberLunes,0,2025-03-10,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 91}"
+TRQ-00459,59,110.01650557786151,15,CyberLunes,0,2025-05-20,,device: Mobile || browser: Android_Webview || session_mins: 99
+TRQ-00460,72,149.00200913351307,23,Organico,0,2025-05-06,,
+TRQ-00461,43,25.50969658581202,26,Organico,0,2025-03-15,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 21}"
+TRQ-00462,52,21.46689595820712,4,Organico,1,2025-01-05,2024-11-30,device: Mobile || browser: Android_Webview || session_mins: 68
+TRQ-00463,67,56.94961446192782,26,CyberLunes,0,2025-03-18,,NaN
+TRQ-00464,42,40.31348922150578,9,CyberLunes,0,2025-03-15,,
+TRQ-00465,41,175.63887765251832,5,Black Friday,0,2025-03-19,,
+TRQ-00466,30,51.65065759802842,32,CyberLunes,1,2025-02-18,2025-05-28,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 44}"
+TRQ-00467,24,195.41439860563494,20,CyberLunes,1,2025-06-04,2025-08-11,device: Mobile || browser: Android_Webview || session_mins: 51
+TRQ-00468,74,74.0102004365103,11,Black Friday,0,2025-04-13,,NaN
+TRQ-00469,53,44.60240398085286,15,Organico,0,2025-04-17,,NaN
+TRQ-00470,62,160.04271635707104,32,Black Friday,0,2025-03-19,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 21}"
+TRQ-00471,37,135.15447734516647,28,Navidad,0,2025-02-09,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 48}"
+TRQ-00472,18,104.6571861260964,22,Navidad,0,2025-02-28,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 108}"
+TRQ-00473,25,115.51907467814993,17,Black Friday,1,2025-01-20,2025-03-10,
+TRQ-00474,63,146.64833787173012,26,Navidad,1,2025-03-30,2025-03-19,
+TRQ-00475,33,53.40640085294676,7,Black Friday,0,2025-04-24,,device: Mobile || browser: Android_Webview || session_mins: 34
+TRQ-00476,31,199.30344405078097,26,CyberLunes,1,2025-03-19,2025-06-04,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 87}"
+TRQ-00477,29,195.2107008078888,25,Organico,1,2025-03-19,2025-04-25,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 4}"
+TRQ-00478,68,133.561880405918,10,CyberLunes,0,2025-01-29,,
+TRQ-00479,40,47.91306567653758,19,Organico,0,2025-03-08,,device: Mobile || browser: Android_Webview || session_mins: 49
+TRQ-00480,32,139.24336606194535,11,CyberLunes,1,2025-01-11,2024-12-28,device: Mobile || browser: Android_Webview || session_mins: 8
+TRQ-00481,45,23.71769770604341,13,Navidad,0,2025-05-07,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 35}"
+TRQ-00482,150,15.823975419103153,8,Black Friday,1,2025-02-28,2025-01-25,NaN
+TRQ-00483,19,58.9597488171306,4,CyberLunes,1,2025-05-23,2025-06-09,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 91}"
+TRQ-00484,49,97.8983617804701,31,CyberLunes,0,2025-05-06,,NaN
+TRQ-00485,40,174.9717760275923,28,Navidad,1,2025-04-23,2025-06-08,device: Mobile || browser: Android_Webview || session_mins: 74
+TRQ-00486,39,148.16212325559852,11,Organico,0,2025-03-26,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 76}"
+TRQ-00487,68,151.1142390279964,1,Organico,0,2025-05-24,,
+TRQ-00488,42,90.84373354513431,38,Black Friday,0,2025-04-07,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 52}"
+TRQ-00489,39,75.72764858392296,24,Organico,0,2025-02-03,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 40}"
+TRQ-00490,39,80.49736496707452,31,Navidad,0,2025-05-26,,
+TRQ-00491,66,197.65341710985098,26,Organico,0,2025-06-02,,NaN
+TRQ-00492,69,17.62074636837167,5,Black Friday,0,2025-06-08,,NaN
+TRQ-00493,59,174.73598426326524,20,Navidad,0,2025-05-22,,
+TRQ-00494,23,119.94832762875475,11,Organico,0,2025-02-17,,
+TRQ-00495,32,93.33692964602218,33,Black Friday,0,2025-04-23,,device: Mobile || browser: Android_Webview || session_mins: 68
+TRQ-00496,71,147.79895547887594,38,Organico,1,2025-05-25,2025-04-30,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 52}"
+TRQ-00497,60,102.46709887069355,27,Navidad,1,2025-02-13,2025-04-13,device: Mobile || browser: Android_Webview || session_mins: 66
+TRQ-00498,54,175.9504152355155,34,CyberLunes,0,2025-01-09,,
+TRQ-00499,50,181.1333541621391,15,CyberLunes,1,2025-01-04,2024-11-26,device: Mobile || browser: Android_Webview || session_mins: 87
+TRQ-00500,25,90.12697610595653,32,Black Friday,0,2025-05-06,,device: Mobile || browser: Android_Webview || session_mins: 64
+TRQ-00501,70,62.5972814746598,21,Navidad,0,2025-01-13,,NaN
+TRQ-00502,61,122.54656243273882,5,Organico,0,2025-03-26,,NaN
+TRQ-00503,61,183.34903566717128,6,CyberLunes,0,2025-01-17,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 113}"
+TRQ-00504,22,50.02581591107665,38,Organico,1,2025-03-20,2025-04-30,device: Mobile || browser: Android_Webview || session_mins: 63
+TRQ-00505,56,128.36365087706173,22,Organico,0,2025-03-01,,device: Mobile || browser: Android_Webview || session_mins: 11
+TRQ-00506,21,129.9964418175789,18,CyberLunes,0,2025-06-27,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 70}"
+TRQ-00507,23,149.29147425890338,14,Organico,0,2025-03-05,,
+TRQ-00508,62,34.997860174179365,10,Organico,0,2025-02-19,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 73}"
+TRQ-00509,49,146.0067432895968,13,Organico,0,2025-02-21,,device: Mobile || browser: Android_Webview || session_mins: 72
+TRQ-00510,69,182.7161789264718,31,Organico,0,2025-02-03,,
+TRQ-00511,47,44.13979068534597,30,Organico,0,2025-01-31,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 85}"
+TRQ-00512,64,55.133231735536754,3,Navidad,0,2025-03-18,,device: Mobile || browser: Android_Webview || session_mins: 70
+TRQ-00513,52,194.56506786791152,30,Black Friday,0,2025-01-16,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 7}"
+TRQ-00514,72,44.38562101480306,6,Organico,0,2025-03-24,,
+TRQ-00515,57,172.33316774022003,29,Navidad,0,2025-04-03,,
+TRQ-00516,69,103.53279272512661,8,Navidad,0,2025-01-24,,device: Mobile || browser: Android_Webview || session_mins: 64
+TRQ-00517,33,56.973904136603636,33,Black Friday,0,2025-04-05,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 112}"
+TRQ-00518,30,175.44248124177716,17,Organico,0,2025-02-15,,
+TRQ-00519,67,94.60799845050644,11,CyberLunes,1,2025-03-04,2025-02-01,NaN
+TRQ-00520,59,107.81529724664114,13,Organico,0,2025-01-16,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 25}"
+TRQ-00521,47,78.25434018595548,11,Black Friday,1,2025-02-16,2025-04-04,NaN
+TRQ-00522,36,122.66066177263622,31,CyberLunes,0,2025-03-06,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 15}"
+TRQ-00523,34,41.06953579115432,28,Black Friday,0,2025-06-24,,
+TRQ-00524,73,84.30549196383454,6,CyberLunes,1,2025-06-22,2025-08-29,
+TRQ-00525,36,194.18834124370463,16,Navidad,0,2025-03-17,,
+TRQ-00526,45,59.04535221321423,4,Organico,0,2025-06-07,,NaN
+TRQ-00527,72,134.7799662628455,35,Organico,0,2025-02-22,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 43}"
+TRQ-00528,43,71.78611220269202,26,CyberLunes,0,2025-03-30,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 79}"
+TRQ-00529,54,156.95989388045413,12,CyberLunes,0,2025-02-27,,NaN
+TRQ-00530,43,34.865995536486466,11,Organico,1,2025-03-25,2025-06-06,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 23}"
+TRQ-00531,70,194.2659985649235,37,Organico,0,2025-03-08,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 2}"
+TRQ-00532,40,96.22001286289145,25,Black Friday,0,2025-05-31,,
+TRQ-00533,26,54.84958803582815,18,Black Friday,1,2025-01-21,2025-02-18,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 16}"
+TRQ-00534,29,23.964381992702407,19,Black Friday,1,2025-02-03,2025-03-09,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 108}"
+TRQ-00535,70,42.25400196663274,23,Organico,0,2025-03-14,,device: Mobile || browser: Android_Webview || session_mins: 14
+TRQ-00536,18,108.75705022564335,38,Navidad,0,2025-01-26,,NaN
+TRQ-00537,18,74.0306035219444,18,Black Friday,1,2025-02-16,2025-03-19,device: Mobile || browser: Android_Webview || session_mins: 114
+TRQ-00538,64,167.4878395176958,26,Black Friday,0,2025-03-15,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 88}"
+TRQ-00539,51,91.86862949574312,6,Organico,0,2025-04-09,,device: Mobile || browser: Android_Webview || session_mins: 37
+TRQ-00540,49,57.25571179164968,4,CyberLunes,1,2025-02-27,2025-06-15,NaN
+TRQ-00541,71,127.25754745476571,29,Black Friday,0,2025-03-29,,device: Mobile || browser: Android_Webview || session_mins: 30
+TRQ-00542,65,144.2876712082347,34,Navidad,0,2025-05-14,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 7}"
+TRQ-00543,42,41.737962501180476,17,CyberLunes,0,2025-02-25,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 39}"
+TRQ-00544,57,41.84765109478036,16,CyberLunes,0,2025-03-03,,device: Mobile || browser: Android_Webview || session_mins: 78
+TRQ-00545,62,16.967571117373165,2,Organico,1,2025-03-31,2025-04-28,NaN
+TRQ-00546,70,149.9163828624717,34,Organico,0,2025-01-09,,NaN
+TRQ-00547,18,136.12286024814296,8,Organico,0,2025-01-17,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 63}"
+TRQ-00548,33,100.17986639246463,13,Organico,0,2025-06-26,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 67}"
+TRQ-00549,56,170.39238530414747,8,Navidad,0,2025-04-27,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 52}"
+TRQ-00550,22,163.0773290605101,30,Organico,0,2025-03-03,,device: Mobile || browser: Android_Webview || session_mins: 46
+TRQ-00551,39,121.2173292353829,32,Black Friday,0,2025-01-16,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 100}"
+TRQ-00552,46,174.97154329751913,36,Navidad,0,2025-05-31,,
+TRQ-00553,72,49.109829906985965,30,Organico,1,2025-05-12,2025-06-03,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 86}"
+TRQ-00554,20,31.264727685568296,1,Black Friday,0,2025-04-13,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 99}"
+TRQ-00555,29,61.25242618822803,39,Black Friday,0,2025-02-24,,device: Mobile || browser: Android_Webview || session_mins: 113
+TRQ-00556,43,20.84650265696982,17,Black Friday,1,2025-01-15,2025-03-25,NaN
+TRQ-00557,33,110.92221032019609,20,CyberLunes,0,2025-02-06,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 7}"
+TRQ-00558,68,187.95508153604268,24,CyberLunes,0,2025-04-16,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 45}"
+TRQ-00559,54,17.475272727016833,22,Organico,1,2025-03-24,2025-05-07,device: Mobile || browser: Android_Webview || session_mins: 39
+TRQ-00560,39,33.200883661905095,29,Organico,0,2025-03-09,,device: Mobile || browser: Android_Webview || session_mins: 23
+TRQ-00561,74,95.9178153738527,22,Black Friday,0,2025-01-11,,NaN
+TRQ-00562,46,187.43625333030192,9,CyberLunes,0,2025-02-19,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 77}"
+TRQ-00563,31,70.0696599455826,37,CyberLunes,0,2025-04-22,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 81}"
+TRQ-00564,45,106.37461365079456,10,Organico,1,2025-03-07,2025-05-10,device: Mobile || browser: Android_Webview || session_mins: 50
+TRQ-00565,22,17.8988432195745,36,Black Friday,0,2025-02-27,,device: Mobile || browser: Android_Webview || session_mins: 92
+TRQ-00566,64,38.185208182796885,37,Black Friday,1,2025-01-28,2025-02-19,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 117}"
+TRQ-00567,66,197.4597233621809,28,Black Friday,1,2025-04-24,2025-03-28,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 45}"
+TRQ-00568,47,193.37255232284866,28,Black Friday,0,2025-05-14,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 51}"
+TRQ-00569,63,10.938596377537827,21,Black Friday,0,2025-03-13,,
+TRQ-00570,69,190.8442392304154,24,Organico,0,2025-03-25,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 53}"
+TRQ-00571,22,131.43278818494508,2,Navidad,0,2025-02-27,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 11}"
+TRQ-00572,-99,174.9044759588042,8,Navidad,0,2025-05-01,,NaN
+TRQ-00573,33,96.40057257043323,27,Black Friday,1,2025-04-04,2025-07-20,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 18}"
+TRQ-00574,43,107.96324543005754,22,Organico,1,2025-01-16,2025-03-23,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 14}"
+TRQ-00575,43,102.88085024881484,37,Navidad,0,2025-04-22,,device: Mobile || browser: Android_Webview || session_mins: 79
+TRQ-00576,65,136.70420893375984,27,CyberLunes,0,2025-04-12,,NaN
+TRQ-00577,38,36.53373840369945,29,Navidad,1,2025-04-30,2025-07-10,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 42}"
+TRQ-00578,56,15.694982075808811,3,Black Friday,0,2025-03-18,,NaN
+TRQ-00579,53,68.50668890232627,13,Organico,1,2025-06-08,2025-09-09,device: Mobile || browser: Android_Webview || session_mins: 30
+TRQ-00580,150,143.88934491996287,10,Black Friday,0,2025-01-21,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 50}"
+TRQ-00581,47,48.35215590336019,36,Organico,0,2025-06-15,,
+TRQ-00582,54,137.95216233173429,9,CyberLunes,1,2025-05-12,2025-06-03,device: Mobile || browser: Android_Webview || session_mins: 10
+TRQ-00583,40,194.2832887603814,27,Organico,0,2025-03-15,,device: Mobile || browser: Android_Webview || session_mins: 116
+TRQ-00584,27,27.841135999989493,34,Navidad,1,2025-05-03,2025-08-23,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 21}"
+TRQ-00585,71,137.79440246277397,1,Organico,1,2025-02-11,2025-04-29,device: Mobile || browser: Android_Webview || session_mins: 103
+TRQ-00586,22,94.31254166786852,32,Black Friday,0,2025-06-17,,device: Mobile || browser: Android_Webview || session_mins: 116
+TRQ-00587,53,174.94702833172602,25,Black Friday,0,2025-06-04,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 83}"
+TRQ-00588,51,43.65845999500332,29,Organico,1,2025-05-11,2025-07-04,NaN
+TRQ-00589,69,141.59893092297125,7,Black Friday,1,2025-01-24,2025-01-29,NaN
+TRQ-00590,48,169.24190503314094,3,Black Friday,0,2025-01-24,,NaN
+TRQ-00591,27,189.4767017000644,20,Navidad,1,2025-05-25,2025-08-24,
+TRQ-00592,36,139.8171253750327,20,Navidad,0,2025-01-10,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 28}"
+TRQ-00593,49,104.4632051616012,30,Black Friday,0,2025-01-14,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 98}"
+TRQ-00594,18,127.39097563823063,35,Black Friday,1,2025-06-06,2025-07-16,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 106}"
+TRQ-00595,73,175.09194705095646,35,Black Friday,0,2025-06-05,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 58}"
+TRQ-00596,22,118.41585186137765,39,Organico,1,2025-02-21,2025-03-15,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 3}"
+TRQ-00597,62,15.773541342399003,27,Navidad,0,2025-03-06,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 64}"
+TRQ-00598,21,186.88025214632577,26,Organico,0,2025-02-22,,
+TRQ-00599,33,141.01008269599663,14,Organico,0,2025-02-08,,
+TRQ-00600,41,138.53754329767685,17,Black Friday,0,2025-04-11,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 104}"
+TRQ-00601,33,50.97827895556626,18,CyberLunes,0,2025-05-27,,device: Mobile || browser: Android_Webview || session_mins: 111
+TRQ-00602,72,135.18823934420487,29,CyberLunes,0,2025-02-21,,device: Mobile || browser: Android_Webview || session_mins: 8
+TRQ-00603,19,84.83423707429012,20,Black Friday,0,2025-05-18,,device: Mobile || browser: Android_Webview || session_mins: 66
+TRQ-00604,66,133.73426563788348,27,Organico,0,2025-05-22,,
+TRQ-00605,45,30.252675758518237,18,Navidad,0,2025-06-18,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 10}"
+TRQ-00606,49,134.99060787457685,4,Black Friday,1,2025-02-25,2025-05-24,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 7}"
+TRQ-00607,44,199.88860789642663,1,Black Friday,0,2025-04-20,,NaN
+TRQ-00608,37,19.160287383505647,1,Navidad,0,2025-06-21,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 16}"
+TRQ-00609,41,195.66309500205028,26,Navidad,0,2025-02-14,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 116}"
+TRQ-00610,29,87.31251253734541,20,CyberLunes,0,2025-04-21,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 50}"
+TRQ-00611,67,175.44315556407923,23,Organico,0,2025-06-11,,NaN
+TRQ-00612,52,158.65324197107196,10,Navidad,0,2025-06-02,,
+TRQ-00613,50,117.73308958746688,11,CyberLunes,0,2025-06-14,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 59}"
+TRQ-00614,50,150.30534975775203,5,Organico,0,2025-05-09,,device: Mobile || browser: Android_Webview || session_mins: 90
+TRQ-00615,68,176.9179566472561,1,CyberLunes,1,2025-04-16,2025-04-21,device: Mobile || browser: Android_Webview || session_mins: 1
+TRQ-00616,60,86.78666111369627,17,Organico,0,2025-01-11,,
+TRQ-00617,54,72.13630069701534,22,Organico,0,2025-04-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 86}"
+TRQ-00618,29,136.8427432570811,34,Organico,0,2025-05-29,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 37}"
+TRQ-00619,20,163.49072896883914,29,Organico,0,2025-04-20,,
+TRQ-00620,18,154.834175607557,4,Black Friday,0,2025-04-19,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 87}"
+TRQ-00621,50,161.58459328314055,5,Organico,0,2025-05-21,,NaN
+TRQ-00622,57,92.76082981445727,11,Navidad,0,2025-05-27,,device: Mobile || browser: Android_Webview || session_mins: 57
+TRQ-00623,27,165.3885010732541,21,Organico,0,2025-04-05,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 22}"
+TRQ-00624,60,32.839720520415604,35,Organico,0,2025-03-05,,NaN
+TRQ-00625,61,113.45292861256141,12,Organico,0,2025-03-26,,NaN
+TRQ-00626,46,11.094145494643099,26,Organico,0,2025-01-26,,NaN
+TRQ-00627,30,71.67130768105136,19,Black Friday,0,2025-01-13,,NaN
+TRQ-00628,29,79.6276916255656,7,Organico,0,2025-05-30,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 5}"
+TRQ-00629,48,85.27281140575852,7,Navidad,0,2025-01-26,,NaN
+TRQ-00630,63,142.1387692710738,26,Organico,0,2025-01-12,,
+TRQ-00631,19,83.82603924136569,5,Navidad,0,2025-03-06,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 63}"
+TRQ-00632,68,95.25178829828083,21,Black Friday,0,2025-05-07,,NaN
+TRQ-00633,67,55.13338486612222,14,Black Friday,0,2025-02-20,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 58}"
+TRQ-00634,52,80.91784040957461,4,Navidad,0,2025-03-31,,device: Mobile || browser: Android_Webview || session_mins: 56
+TRQ-00635,40,53.18122917999878,23,Organico,0,2025-04-10,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 110}"
+TRQ-00636,34,23.907225516004292,20,Black Friday,0,2025-04-27,,device: Mobile || browser: Android_Webview || session_mins: 90
+TRQ-00637,43,124.6552327424618,15,Navidad,0,2025-04-07,,
+TRQ-00638,25,136.96043172545308,29,Black Friday,0,2025-06-27,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 79}"
+TRQ-00639,46,127.70316574182675,8,Organico,1,2025-01-15,2025-01-31,
+TRQ-00640,43,98.06386832210875,19,Black Friday,0,2025-01-02,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 56}"
+TRQ-00641,27,82.15929823405367,39,CyberLunes,0,2025-01-26,,device: Mobile || browser: Android_Webview || session_mins: 112
+TRQ-00642,43,174.0333934186468,28,CyberLunes,1,2025-03-14,2025-04-02,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 40}"
+TRQ-00643,51,108.62553917588143,27,CyberLunes,1,2025-03-11,2025-04-02,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 41}"
+TRQ-00644,68,101.04455674964889,4,Black Friday,0,2025-05-14,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 115}"
+TRQ-00645,58,14.871992503222781,15,CyberLunes,0,2025-04-16,,
+TRQ-00646,24,74.83708724896971,35,CyberLunes,0,2025-05-28,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 11}"
+TRQ-00647,21,82.23716756931285,37,Organico,0,2025-01-24,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 46}"
+TRQ-00648,70,85.7763283704111,1,Organico,0,2025-01-10,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 66}"
+TRQ-00649,67,120.23275015319314,3,Black Friday,0,2025-04-29,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 7}"
+TRQ-00650,62,111.3844838781069,24,Organico,0,2025-04-05,,
+TRQ-00651,28,125.50196763075448,27,CyberLunes,1,2025-06-28,2025-09-14,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 105}"
+TRQ-00652,46,155.32781969300436,36,Navidad,1,2025-05-25,2025-08-21,
+TRQ-00653,73,164.46729035605776,34,Navidad,0,2025-02-03,,
+TRQ-00654,53,146.44338448303392,29,Black Friday,0,2025-05-11,,
+TRQ-00655,42,191.5495022314376,24,Black Friday,0,2025-01-15,,
+TRQ-00656,38,13.46419070850871,24,Black Friday,1,2025-01-02,2025-02-10,NaN
+TRQ-00657,74,47.19781727987376,4,Black Friday,0,2025-04-01,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 65}"
+TRQ-00658,53,11.436946245847002,3,Organico,0,2025-03-31,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 30}"
+TRQ-00659,27,133.0201956893746,34,CyberLunes,0,2025-05-25,,NaN
+TRQ-00660,54,180.62580430049752,23,CyberLunes,0,2025-04-01,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 4}"
+TRQ-00661,26,56.26163634949686,23,CyberLunes,0,2025-06-25,,NaN
+TRQ-00662,41,186.13656351129828,5,Black Friday,1,2025-06-22,2025-07-02,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 79}"
+TRQ-00663,52,21.450804155016563,31,Navidad,0,2025-01-15,,device: Mobile || browser: Android_Webview || session_mins: 116
+TRQ-00664,66,187.5428450930477,6,CyberLunes,0,2025-06-02,,NaN
+TRQ-00665,52,76.80831057553054,37,Organico,0,2025-04-22,,
+TRQ-00666,65,29.26995740535114,10,Black Friday,0,2025-05-24,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 49}"
+TRQ-00667,53,102.31563424540187,7,CyberLunes,1,2025-03-25,2025-02-24,
+TRQ-00668,35,58.78754786689651,39,Navidad,1,2025-03-14,2025-05-29,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 9}"
+TRQ-00669,66,64.12585137276534,38,CyberLunes,1,2025-06-12,2025-08-29,NaN
+TRQ-00670,56,68.38509333599444,21,Navidad,1,2025-05-11,2025-04-05,NaN
+TRQ-00671,49,162.57492058820606,20,Navidad,0,2025-01-28,,NaN
+TRQ-00672,41,112.44064256829836,3,Black Friday,0,2025-03-16,,device: Mobile || browser: Android_Webview || session_mins: 112
+TRQ-00673,40,69.1484628396407,22,CyberLunes,0,2025-04-10,,device: Mobile || browser: Android_Webview || session_mins: 35
+TRQ-00674,49,125.96341882907448,4,Black Friday,1,2025-03-14,2025-02-13,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 92}"
+TRQ-00675,54,146.06862810240676,28,CyberLunes,0,2025-01-24,,NaN
+TRQ-00676,29,61.79856013937142,12,CyberLunes,0,2025-03-10,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 30}"
+TRQ-00677,66,88.57432928981679,38,Black Friday,1,2025-05-23,2025-08-03,
+TRQ-00678,72,33.158357734020036,36,Black Friday,0,2025-04-28,,
+TRQ-00679,30,44.41837641158926,5,Navidad,0,2025-04-17,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 117}"
+TRQ-00680,40,139.41239225334672,13,Navidad,0,2025-04-04,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 67}"
+TRQ-00681,42,44.47328606216912,23,Navidad,0,2025-03-07,,device: Mobile || browser: Android_Webview || session_mins: 17
+TRQ-00682,52,109.78104289674143,30,CyberLunes,0,2025-03-10,,device: Mobile || browser: Android_Webview || session_mins: 19
+TRQ-00683,58,144.71878972726222,37,CyberLunes,1,2025-05-09,2025-07-25,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 24}"
+TRQ-00684,47,30.30661538800133,25,Organico,0,2025-03-05,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 15}"
+TRQ-00685,34,117.78932172949168,27,Navidad,1,2025-04-24,2025-04-11,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 44}"
+TRQ-00686,66,58.74692890325912,14,Organico,0,2025-04-01,,NaN
+TRQ-00687,37,192.95610629514016,36,Black Friday,0,2025-03-23,,NaN
+TRQ-00688,65,101.8736728767857,39,Navidad,0,2025-04-14,,NaN
+TRQ-00689,42,163.13858445728005,16,Navidad,0,2025-06-10,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 46}"
+TRQ-00690,39,114.54304300968974,22,Black Friday,0,2025-04-27,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 16}"
+TRQ-00691,30,18.24838124241564,21,Black Friday,1,2025-01-14,2024-11-30,device: Mobile || browser: Android_Webview || session_mins: 23
+TRQ-00692,36,130.29876136286424,21,Navidad,0,2025-05-05,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 23}"
+TRQ-00693,66,190.76663501926484,8,Black Friday,0,2025-05-28,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 8}"
+TRQ-00694,53,124.30624582780293,16,Black Friday,0,2025-06-02,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 22}"
+TRQ-00695,29,165.64588329109014,31,Organico,0,2025-03-30,,NaN
+TRQ-00696,58,177.99922803619748,10,Organico,0,2025-01-12,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 19}"
+TRQ-00697,36,53.33515667029717,32,Black Friday,0,2025-01-16,,
+TRQ-00698,29,50.28851958256306,34,Black Friday,0,2025-01-11,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 93}"
+TRQ-00699,26,126.08638788168842,9,CyberLunes,1,2025-02-11,2025-03-17,NaN
+TRQ-00700,24,88.0954092632739,17,Navidad,0,2025-06-05,,NaN
+TRQ-00701,45,169.57364754467687,11,Black Friday,0,2025-03-15,,NaN
+TRQ-00702,31,181.00439344562213,32,Organico,0,2025-02-22,,device: Mobile || browser: Android_Webview || session_mins: 98
+TRQ-00703,48,77.15006206751644,10,Black Friday,0,2025-05-09,,device: Mobile || browser: Android_Webview || session_mins: 77
+TRQ-00704,69,55.005406205151594,22,Black Friday,0,2025-01-29,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 87}"
+TRQ-00705,36,158.29984789633374,17,Navidad,0,2025-03-07,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 59}"
+TRQ-00706,64,62.21314675414586,4,Organico,1,2025-01-18,2025-03-25,
+TRQ-00707,33,166.29672051759889,25,Black Friday,0,2025-04-06,,device: Mobile || browser: Android_Webview || session_mins: 92
+TRQ-00708,70,90.51026819326493,21,Black Friday,0,2025-06-22,,
+TRQ-00709,22,136.8344808653794,37,Organico,0,2025-05-19,,
+TRQ-00710,52,28.151709628586953,38,CyberLunes,0,2025-03-05,,device: Mobile || browser: Android_Webview || session_mins: 97
+TRQ-00711,29,128.5332716885489,1,Organico,0,2025-06-25,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 42}"
+TRQ-00712,42,95.83585896007354,25,CyberLunes,1,2025-02-08,2025-02-20,device: Mobile || browser: Android_Webview || session_mins: 52
+TRQ-00713,69,121.45560800334007,36,Organico,0,2025-03-12,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 32}"
+TRQ-00714,38,41.92269947152405,17,Navidad,1,2025-04-15,2025-03-07,NaN
+TRQ-00715,53,150.0060115393946,24,Black Friday,0,2025-02-23,,device: Mobile || browser: Android_Webview || session_mins: 105
+TRQ-00716,70,173.93144473321343,2,Organico,0,2025-06-22,,NaN
+TRQ-00717,40,51.180562017247375,15,CyberLunes,0,2025-04-30,,device: Mobile || browser: Android_Webview || session_mins: 98
+TRQ-00718,33,28.185765548830727,32,Black Friday,0,2025-03-16,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 105}"
+TRQ-00719,74,14.491331348803914,39,Navidad,0,2025-02-24,,NaN
+TRQ-00720,56,131.97458508422054,6,Black Friday,0,2025-01-21,,
+TRQ-00721,62,125.34786685686835,1,Navidad,1,2025-03-21,2025-04-30,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 68}"
+TRQ-00722,70,113.87250841567331,23,CyberLunes,0,2025-02-01,,NaN
+TRQ-00723,59,54.06994826203533,39,CyberLunes,0,2025-05-16,,NaN
+TRQ-00724,56,84.27213922204778,17,CyberLunes,1,2025-02-28,2025-06-11,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 80}"
+TRQ-00725,31,122.95050368537288,34,CyberLunes,1,2025-04-16,2025-05-11,
+TRQ-00726,48,104.38570318324219,29,Black Friday,0,2025-01-11,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 15}"
+TRQ-00727,22,197.6792488408286,9,Organico,0,2025-01-11,,NaN
+TRQ-00728,52,35.923552985779295,13,Organico,1,2025-02-09,2025-03-31,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 65}"
+TRQ-00729,40,142.07746526904282,6,Organico,0,2025-06-06,,NaN
+TRQ-00730,46,86.82056593981551,6,CyberLunes,0,2025-06-08,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 51}"
+TRQ-00731,60,91.3579268358668,20,Black Friday,0,2025-02-07,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 74}"
+TRQ-00732,-99,146.34357547505348,3,CyberLunes,0,2025-04-30,,device: Mobile || browser: Android_Webview || session_mins: 64
+TRQ-00733,35,141.56286875163022,17,Black Friday,0,2025-03-09,,device: Mobile || browser: Android_Webview || session_mins: 104
+TRQ-00734,64,198.3386388034158,12,Navidad,0,2025-02-13,,device: Mobile || browser: Android_Webview || session_mins: 14
+TRQ-00735,29,34.394914996283795,1,CyberLunes,0,2025-02-22,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 81}"
+TRQ-00736,26,29.780833382991602,17,Black Friday,0,2025-04-12,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 59}"
+TRQ-00737,27,147.62437525446083,3,Organico,0,2025-02-26,,NaN
+TRQ-00738,61,119.89351423121772,26,Black Friday,1,2025-03-18,2025-02-24,
+TRQ-00739,34,62.09052664636312,15,Black Friday,1,2025-03-10,2025-03-30,
+TRQ-00740,55,25.089680107907455,36,CyberLunes,0,2025-05-18,,device: Mobile || browser: Android_Webview || session_mins: 39
+TRQ-00741,24,26.2750674233218,32,Black Friday,0,2025-04-17,,NaN
+TRQ-00742,63,179.8962661861825,32,Organico,0,2025-05-06,,NaN
+TRQ-00743,30,46.45479169656115,4,CyberLunes,0,2025-04-03,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 51}"
+TRQ-00744,57,71.44059680194894,18,Black Friday,0,2025-01-24,,
+TRQ-00745,59,53.06471642312772,19,CyberLunes,0,2025-04-20,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 49}"
+TRQ-00746,26,77.44929810806809,35,Black Friday,1,2025-03-03,2025-02-22,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 57}"
+TRQ-00747,67,23.19053012175774,14,CyberLunes,0,2025-06-18,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 89}"
+TRQ-00748,44,108.62136027257137,33,Organico,0,2025-02-14,,NaN
+TRQ-00749,19,22.84638708252083,14,Organico,0,2025-06-02,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 37}"
+TRQ-00750,22,162.0677364862487,34,Organico,0,2025-06-29,,device: Mobile || browser: Android_Webview || session_mins: 11
+TRQ-00751,-99,54.405295562982275,4,Black Friday,1,2025-06-11,2025-05-14,device: Mobile || browser: Android_Webview || session_mins: 114
+TRQ-00752,54,112.60226377485701,24,Organico,0,2025-01-17,,
+TRQ-00753,55,177.21502663667707,29,Navidad,0,2025-01-23,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 47}"
+TRQ-00754,36,133.6667001189669,19,Black Friday,1,2025-02-27,2025-06-22,device: Mobile || browser: Android_Webview || session_mins: 15
+TRQ-00755,25,111.2619794447537,6,Navidad,0,2025-03-04,,NaN
+TRQ-00756,-99,71.62341309192136,33,CyberLunes,1,2025-04-18,2025-04-20,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 66}"
+TRQ-00757,62,73.27036348105761,19,CyberLunes,0,2025-03-13,,
+TRQ-00758,18,137.20252148765613,1,Organico,0,2025-04-01,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 81}"
+TRQ-00759,39,198.88647863202183,5,Black Friday,0,2025-03-14,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 90}"
+TRQ-00760,69,135.74944607138195,27,Navidad,0,2025-03-12,,device: Mobile || browser: Android_Webview || session_mins: 12
+TRQ-00761,34,115.97884930030473,16,Black Friday,0,2025-01-31,,
+TRQ-00762,24,148.82359694545676,6,Organico,0,2025-04-14,,NaN
+TRQ-00763,42,98.38906633390644,13,Organico,0,2025-06-01,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 22}"
+TRQ-00764,62,21.427045094149193,35,Organico,0,2025-02-02,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 96}"
+TRQ-00765,21,116.83639501680287,19,Black Friday,0,2025-03-28,,NaN
+TRQ-00766,53,191.94880405602223,12,CyberLunes,0,2025-02-27,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 110}"
+TRQ-00767,23,43.30755904795533,16,Black Friday,0,2025-04-20,,device: Mobile || browser: Android_Webview || session_mins: 91
+TRQ-00768,48,141.1009292559265,10,CyberLunes,0,2025-01-10,,NaN
+TRQ-00769,36,48.17740084522073,25,CyberLunes,0,2025-02-01,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 71}"
+TRQ-00770,61,111.80726004988544,20,Navidad,1,2025-03-13,2025-05-14,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 1}"
+TRQ-00771,71,28.368525432876726,31,Navidad,0,2025-05-18,,
+TRQ-00772,56,95.57047788905518,4,Organico,0,2025-01-14,,NaN
+TRQ-00773,44,153.67103249009676,23,Black Friday,0,2025-05-12,,device: Mobile || browser: Android_Webview || session_mins: 61
+TRQ-00774,27,76.0385896054066,2,Black Friday,0,2025-02-05,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 41}"
+TRQ-00775,43,136.33322765257142,22,CyberLunes,0,2025-01-22,,NaN
+TRQ-00776,36,161.13549255004855,37,Organico,1,2025-03-06,2025-05-15,device: Mobile || browser: Android_Webview || session_mins: 54
+TRQ-00777,56,186.163785701096,8,Organico,1,2025-04-06,2025-06-21,device: Mobile || browser: Android_Webview || session_mins: 79
+TRQ-00778,20,54.58199555253617,7,Organico,0,2025-02-04,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 18}"
+TRQ-00779,62,85.87002400376855,14,Organico,0,2025-05-02,,NaN
+TRQ-00780,150,38.95904253277931,3,Navidad,0,2025-06-13,,NaN
+TRQ-00781,67,198.5718654100913,16,Black Friday,0,2025-01-16,,device: Mobile || browser: Android_Webview || session_mins: 26
+TRQ-00782,45,186.13018390561612,19,Black Friday,0,2025-05-01,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 2}"
+TRQ-00783,37,112.59185475330632,18,Navidad,0,2025-04-07,,NaN
+TRQ-00784,45,169.98632593152004,16,Black Friday,0,2025-01-07,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 56}"
+TRQ-00785,25,108.98201568168801,8,Black Friday,1,2025-04-20,2025-03-22,
+TRQ-00786,58,128.48128072052435,33,Organico,0,2025-04-08,,NaN
+TRQ-00787,56,26.93364210204316,12,Organico,0,2025-02-02,,NaN
+TRQ-00788,18,153.5013798943935,11,Organico,1,2025-03-25,2025-07-19,device: Mobile || browser: Android_Webview || session_mins: 62
+TRQ-00789,20,34.26556189069461,5,Organico,0,2025-06-06,,
+TRQ-00790,30,166.9528497479804,27,Navidad,1,2025-04-29,2025-07-27,device: Mobile || browser: Android_Webview || session_mins: 2
+TRQ-00791,45,158.58533665737332,12,CyberLunes,0,2025-03-21,,device: Mobile || browser: Android_Webview || session_mins: 94
+TRQ-00792,-99,144.66149257116552,17,CyberLunes,0,2025-03-20,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 38}"
+TRQ-00793,66,16.8704722997048,6,Navidad,1,2025-05-28,2025-08-24,device: Mobile || browser: Android_Webview || session_mins: 42
+TRQ-00794,42,67.59438762961244,33,Organico,0,2025-04-18,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 37}"
+TRQ-00795,73,59.99138828306015,5,CyberLunes,0,2025-05-07,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 63}"
+TRQ-00796,150,78.42591741958863,28,Organico,0,2025-01-16,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 23}"
+TRQ-00797,55,26.652121885129322,14,CyberLunes,0,2025-05-15,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 85}"
+TRQ-00798,70,188.02198637590192,5,Black Friday,0,2025-03-15,,NaN
+TRQ-00799,23,115.2224257353515,33,Navidad,1,2025-04-12,2025-03-10,
+TRQ-00800,61,68.04961902502447,19,CyberLunes,1,2025-04-09,2025-07-12,device: Mobile || browser: Android_Webview || session_mins: 5
+TRQ-00801,62,85.42648824411386,22,CyberLunes,1,2025-06-16,2025-07-25,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 18}"
+TRQ-00802,49,94.96848269591878,5,Black Friday,0,2025-01-27,,device: Mobile || browser: Android_Webview || session_mins: 94
+TRQ-00803,62,124.11292333851729,2,Organico,0,2025-04-03,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 55}"
+TRQ-00804,64,107.97909126233458,30,Black Friday,0,2025-05-06,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 41}"
+TRQ-00805,38,184.68447491073928,39,Navidad,1,2025-06-29,2025-08-14,device: Mobile || browser: Android_Webview || session_mins: 80
+TRQ-00806,33,104.42306175210774,4,Navidad,0,2025-03-15,,NaN
+TRQ-00807,71,198.5100228164294,33,CyberLunes,0,2025-05-04,,NaN
+TRQ-00808,38,171.77074197156819,13,Organico,0,2025-02-23,,NaN
+TRQ-00809,28,49.6169977278938,20,CyberLunes,0,2025-03-20,,
+TRQ-00810,54,186.8130907823441,7,Organico,0,2025-04-03,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 32}"
+TRQ-00811,53,32.10961559824045,15,Navidad,1,2025-03-30,2025-06-17,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 37}"
+TRQ-00812,52,165.3154446133264,23,Organico,1,2025-01-14,2025-01-22,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 25}"
+TRQ-00813,36,82.31842576055021,14,CyberLunes,0,2025-02-13,,device: Mobile || browser: Android_Webview || session_mins: 20
+TRQ-00814,37,176.8151208845632,23,Black Friday,0,2025-03-18,,NaN
+TRQ-00815,74,174.93077112041556,19,CyberLunes,1,2025-02-21,2025-02-20,device: Mobile || browser: Android_Webview || session_mins: 61
+TRQ-00816,35,163.125826022348,29,CyberLunes,0,2025-01-20,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 54}"
+TRQ-00817,64,160.10578289834166,20,Navidad,0,2025-05-30,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 105}"
+TRQ-00818,58,67.88903642862775,29,Black Friday,0,2025-05-03,,device: Mobile || browser: Android_Webview || session_mins: 94
+TRQ-00819,66,25.374663779737915,24,Navidad,0,2025-01-25,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 61}"
+TRQ-00820,31,86.56623396538068,18,CyberLunes,0,2025-01-27,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 3}"
+TRQ-00821,32,42.96965784743665,10,Black Friday,0,2025-06-23,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 52}"
+TRQ-00822,48,142.04070689146772,8,Organico,0,2025-06-06,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 69}"
+TRQ-00823,18,75.75894804217926,26,Black Friday,0,2025-05-01,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 78}"
+TRQ-00824,70,195.36593816338384,29,Navidad,1,2025-03-24,2025-03-22,device: Mobile || browser: Android_Webview || session_mins: 113
+TRQ-00825,71,131.7846946956131,10,Navidad,1,2025-04-11,2025-07-24,NaN
+TRQ-00826,71,166.27130709052858,17,Organico,1,2025-06-07,2025-05-30,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 41}"
+TRQ-00827,20,35.1796878209512,2,Black Friday,0,2025-01-18,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 27}"
+TRQ-00828,33,173.78275163179828,6,Navidad,0,2025-03-10,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 53}"
+TRQ-00829,40,185.32386619754493,5,Organico,0,2025-02-14,,NaN
+TRQ-00830,74,102.54176457559782,28,Organico,1,2025-03-03,2025-04-13,NaN
+TRQ-00831,28,125.18805817268571,5,Black Friday,0,2025-05-04,,device: Mobile || browser: Android_Webview || session_mins: 96
+TRQ-00832,29,155.31386217156913,18,Navidad,0,2025-04-04,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 3}"
+TRQ-00833,27,43.21933917947838,26,Organico,0,2025-03-16,,device: Mobile || browser: Android_Webview || session_mins: 29
+TRQ-00834,49,105.48755452805406,20,Navidad,0,2025-06-03,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 31}"
+TRQ-00835,33,85.74597527673949,27,CyberLunes,0,2025-03-09,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 18}"
+TRQ-00836,25,37.81105851082733,12,CyberLunes,1,2025-04-22,2025-07-31,
+TRQ-00837,55,79.83154023539097,7,Organico,1,2025-01-03,2025-01-24,
+TRQ-00838,29,22.952738783243777,3,Black Friday,0,2025-03-31,,NaN
+TRQ-00839,41,14.904262320402527,10,Organico,1,2025-06-27,2025-08-07,NaN
+TRQ-00840,45,35.68159493941633,34,Black Friday,0,2025-01-27,,NaN
+TRQ-00841,70,192.99187120194304,25,Navidad,0,2025-04-10,,NaN
+TRQ-00842,25,114.41061182005322,35,CyberLunes,0,2025-01-28,,NaN
+TRQ-00843,45,193.50621061911178,16,CyberLunes,0,2025-03-31,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 20}"
+TRQ-00844,53,92.17459688272507,2,Organico,0,2025-05-27,,NaN
+TRQ-00845,43,69.24506528619932,24,Organico,1,2025-01-02,2025-02-16,NaN
+TRQ-00846,25,106.16695393964638,10,Navidad,0,2025-04-14,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 10}"
+TRQ-00847,67,93.50722084025293,38,Black Friday,0,2025-05-12,,NaN
+TRQ-00848,45,30.076290009731345,22,Navidad,0,2025-02-11,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 103}"
+TRQ-00849,45,131.75699979113918,26,Navidad,1,2025-06-15,2025-07-11,NaN
+TRQ-00850,54,51.047254676823925,39,Navidad,0,2025-02-21,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 20}"
+TRQ-00851,58,127.72171143058762,27,CyberLunes,0,2025-01-16,,NaN
+TRQ-00852,53,133.53820755564914,29,Navidad,0,2025-01-09,,
+TRQ-00853,44,38.88472209444314,38,Organico,0,2025-02-08,,
+TRQ-00854,-99,21.65642915102695,20,Organico,0,2025-04-25,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 73}"
+TRQ-00855,34,158.34470135300356,27,CyberLunes,0,2025-03-25,,
+TRQ-00856,26,97.36208051617083,20,Organico,0,2025-02-26,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 107}"
+TRQ-00857,50,21.0511211460404,19,Navidad,0,2025-06-25,,NaN
+TRQ-00858,70,199.02460026225575,20,Black Friday,1,2025-04-14,2025-07-26,
+TRQ-00859,37,20.97830658930966,35,CyberLunes,0,2025-05-19,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 95}"
+TRQ-00860,30,142.05669348312512,2,Black Friday,0,2025-04-13,,NaN
+TRQ-00861,45,196.8989958000486,30,Black Friday,1,2025-03-20,2025-05-16,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 42}"
+TRQ-00862,65,55.444219801025866,34,Black Friday,0,2025-06-27,,NaN
+TRQ-00863,46,37.027380050567274,22,Organico,1,2025-06-19,2025-07-12,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 113}"
+TRQ-00864,30,33.063138490261494,3,Organico,0,2025-03-25,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 24}"
+TRQ-00865,63,67.62227803784316,6,Navidad,0,2025-01-31,,
+TRQ-00866,52,29.198704092022872,15,Organico,0,2025-01-06,,NaN
+TRQ-00867,23,141.51065492188505,27,Black Friday,1,2025-04-30,2025-05-26,NaN
+TRQ-00868,35,21.835441644711914,10,Black Friday,0,2025-02-01,,
+TRQ-00869,68,106.79020434846005,9,Navidad,0,2025-01-24,,
+TRQ-00870,22,199.37240223206558,33,CyberLunes,1,2025-02-18,2025-03-29,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 35}"
+TRQ-00871,64,164.65435120614356,32,Black Friday,0,2025-04-20,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 109}"
+TRQ-00872,42,126.89169326389207,6,Black Friday,0,2025-02-10,,device: Mobile || browser: Android_Webview || session_mins: 52
+TRQ-00873,19,68.18818794945622,36,CyberLunes,0,2025-01-07,,device: Mobile || browser: Android_Webview || session_mins: 110
+TRQ-00874,27,128.5402088954113,2,Organico,0,2025-02-08,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 96}"
+TRQ-00875,73,110.13787814321381,29,Black Friday,0,2025-06-19,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 84}"
+TRQ-00876,47,90.95584293917058,4,Black Friday,0,2025-04-11,,
+TRQ-00877,67,34.8349715806379,1,CyberLunes,0,2025-01-28,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 106}"
+TRQ-00878,62,178.4548008956887,19,Navidad,0,2025-03-11,,device: Mobile || browser: Android_Webview || session_mins: 53
+TRQ-00879,22,95.45908327605127,26,Black Friday,1,2025-02-27,2025-05-26,device: Mobile || browser: Android_Webview || session_mins: 38
+TRQ-00880,72,46.978277245945364,25,Organico,1,2025-01-18,2025-03-21,NaN
+TRQ-00881,73,79.87427666668502,10,Black Friday,0,2025-03-13,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 110}"
+TRQ-00882,50,88.68465298049614,15,CyberLunes,1,2025-02-17,2025-03-14,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 110}"
+TRQ-00883,71,167.2322001577061,22,Navidad,0,2025-03-21,,NaN
+TRQ-00884,18,149.3867323066664,21,CyberLunes,0,2025-04-21,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 6}"
+TRQ-00885,35,156.16792979185456,22,Black Friday,1,2025-01-14,2025-01-21,NaN
+TRQ-00886,49,12.095940241442971,36,Black Friday,0,2025-05-20,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 27}"
+TRQ-00887,64,89.06925965415469,34,Organico,0,2025-05-05,,NaN
+TRQ-00888,66,101.45538881071148,30,CyberLunes,1,2025-04-20,2025-06-29,NaN
+TRQ-00889,28,13.64653259638077,25,Navidad,0,2025-04-01,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 9}"
+TRQ-00890,38,59.364509661556504,28,CyberLunes,1,2025-03-28,2025-04-25,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 15}"
+TRQ-00891,43,154.45506639320564,1,Black Friday,0,2025-04-03,,NaN
+TRQ-00892,42,36.05084408850982,4,Black Friday,0,2025-01-25,,device: Mobile || browser: Android_Webview || session_mins: 19
+TRQ-00893,-99,111.70892497599242,7,Organico,0,2025-03-15,,device: Mobile || browser: Android_Webview || session_mins: 106
+TRQ-00894,44,50.88835568327512,9,Black Friday,0,2025-01-05,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 18}"
+TRQ-00895,66,12.302947182339722,36,CyberLunes,1,2025-04-24,2025-08-03,device: Mobile || browser: Android_Webview || session_mins: 50
+TRQ-00896,30,55.82827694391288,19,Black Friday,0,2025-02-16,,device: Mobile || browser: Android_Webview || session_mins: 59
+TRQ-00897,50,195.41601343291023,1,CyberLunes,0,2025-01-19,,NaN
+TRQ-00898,51,162.29205125776804,10,CyberLunes,0,2025-02-13,,device: Mobile || browser: Android_Webview || session_mins: 74
+TRQ-00899,58,192.31956242099633,36,Navidad,0,2025-06-11,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 106}"
+TRQ-00900,52,102.69226834600886,9,CyberLunes,0,2025-04-04,,device: Mobile || browser: Android_Webview || session_mins: 51
+TRQ-00901,18,30.849877748725667,32,CyberLunes,1,2025-04-14,2025-07-21,
+TRQ-00902,38,114.11230290500166,32,Organico,0,2025-05-05,,NaN
+TRQ-00903,65,96.33169356639257,6,Black Friday,0,2025-01-11,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 41}"
+TRQ-00904,72,170.42784572052705,38,CyberLunes,1,2025-03-15,2025-07-12,NaN
+TRQ-00905,23,28.63569034900647,17,Black Friday,0,2025-02-01,,
+TRQ-00906,45,102.76581603413786,10,Navidad,0,2025-06-06,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 67}"
+TRQ-00907,34,38.50924629185701,27,Black Friday,1,2025-03-02,2025-04-17,
+TRQ-00908,22,71.68842610911139,35,Black Friday,0,2025-05-12,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 66}"
+TRQ-00909,48,150.09784470368194,21,CyberLunes,0,2025-04-29,,NaN
+TRQ-00910,22,100.44344458006564,25,Navidad,0,2025-01-15,,device: Mobile || browser: Android_Webview || session_mins: 98
+TRQ-00911,55,81.41877417769618,28,Black Friday,1,2025-05-24,2025-06-12,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 60}"
+TRQ-00912,20,84.95049292830672,15,Navidad,1,2025-01-03,2025-01-09,device: Mobile || browser: Android_Webview || session_mins: 85
+TRQ-00913,70,97.29488599713746,4,Organico,1,2025-01-25,2025-01-09,device: Mobile || browser: Android_Webview || session_mins: 27
+TRQ-00914,40,159.1531433290408,29,Navidad,0,2025-03-06,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 110}"
+TRQ-00915,-99,179.49609089864452,9,Black Friday,0,2025-04-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 49}"
+TRQ-00916,70,191.51359043574638,27,Black Friday,0,2025-04-25,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 94}"
+TRQ-00917,54,159.51164338850606,26,Black Friday,0,2025-01-25,,
+TRQ-00918,27,69.92731019212242,19,CyberLunes,0,2025-06-05,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 68}"
+TRQ-00919,150,140.74559415644302,28,CyberLunes,1,2025-06-15,2025-05-27,device: Mobile || browser: Android_Webview || session_mins: 89
+TRQ-00920,36,93.14459357052446,17,Organico,1,2025-04-02,2025-07-17,
+TRQ-00921,34,58.38741818874972,20,Black Friday,0,2025-06-17,,device: Mobile || browser: Android_Webview || session_mins: 69
+TRQ-00922,38,169.7656000909253,39,Black Friday,0,2025-01-27,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 53}"
+TRQ-00923,31,17.30100630284175,23,Navidad,0,2025-03-07,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 29}"
+TRQ-00924,26,181.33477850573047,32,Navidad,0,2025-05-01,,NaN
+TRQ-00925,63,97.68071827869949,33,CyberLunes,1,2025-01-05,2025-03-15,device: Mobile || browser: Android_Webview || session_mins: 37
+TRQ-00926,18,131.06828059357326,5,Organico,1,2025-06-07,2025-07-18,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 96}"
+TRQ-00927,68,135.27724521909872,34,CyberLunes,0,2025-01-02,,NaN
+TRQ-00928,62,180.0723707342419,11,Organico,0,2025-02-20,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 7}"
+TRQ-00929,30,130.9672396117694,3,Organico,0,2025-04-21,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 43}"
+TRQ-00930,21,126.64738110441174,33,Organico,0,2025-05-20,,device: Mobile || browser: Android_Webview || session_mins: 3
+TRQ-00931,18,22.663887706531092,11,Navidad,0,2025-03-16,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 54}"
+TRQ-00932,66,108.49752416958877,16,CyberLunes,0,2025-03-04,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 50}"
+TRQ-00933,57,38.532110155237916,18,Black Friday,0,2025-03-23,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 30}"
+TRQ-00934,49,150.11241605708227,30,Navidad,1,2025-06-14,2025-08-15,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 90}"
+TRQ-00935,51,107.32216495440815,10,Black Friday,0,2025-02-26,,
+TRQ-00936,45,139.24327804958713,18,Organico,0,2025-04-22,,device: Mobile || browser: Android_Webview || session_mins: 68
+TRQ-00937,48,17.91785111445301,38,Black Friday,0,2025-01-22,,
+TRQ-00938,25,26.110483048702612,19,Black Friday,0,2025-05-22,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 51}"
+TRQ-00939,56,146.10144373190963,36,Black Friday,0,2025-01-10,,device: Mobile || browser: Android_Webview || session_mins: 83
+TRQ-00940,43,23.696023839747937,13,Black Friday,0,2025-05-20,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 6}"
+TRQ-00941,51,23.53877827539913,3,Navidad,0,2025-03-12,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 117}"
+TRQ-00942,71,12.300610294628616,10,Organico,0,2025-05-10,,device: Mobile || browser: Android_Webview || session_mins: 97
+TRQ-00943,71,191.7352656769012,38,Navidad,1,2025-04-29,2025-07-04,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 1}"
+TRQ-00944,20,150.12658829721133,1,Organico,0,2025-02-26,,device: Mobile || browser: Android_Webview || session_mins: 71
+TRQ-00945,67,77.1177676153922,27,Organico,1,2025-02-01,2025-03-29,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 89}"
+TRQ-00946,29,66.34176044465448,8,Organico,0,2025-02-07,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 45}"
+TRQ-00947,18,76.44361365171142,17,CyberLunes,0,2025-06-25,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 56}"
+TRQ-00948,71,157.18417092442456,9,Organico,0,2025-04-02,,device: Mobile || browser: Android_Webview || session_mins: 88
+TRQ-00949,61,135.66041610337874,6,Black Friday,0,2025-04-25,,device: Mobile || browser: Android_Webview || session_mins: 54
+TRQ-00950,22,45.18715789481891,25,CyberLunes,1,2025-05-09,2025-05-08,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 104}"
+TRQ-00951,47,43.08077371347603,39,Navidad,0,2025-06-25,,device: Mobile || browser: Android_Webview || session_mins: 31
+TRQ-00952,47,28.69517344554549,28,Black Friday,1,2025-05-03,2025-04-01,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 37}"
+TRQ-00953,74,135.45751674325425,33,CyberLunes,1,2025-03-11,2025-06-30,device: Mobile || browser: Android_Webview || session_mins: 5
+TRQ-00954,34,155.23080582212984,37,CyberLunes,0,2025-02-06,,NaN
+TRQ-00955,65,60.358821381750765,9,CyberLunes,0,2025-02-02,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 118}"
+TRQ-00956,64,13.979542595873435,18,Organico,0,2025-03-06,,NaN
+TRQ-00957,40,25.612616820521197,21,CyberLunes,1,2025-06-20,2025-06-27,NaN
+TRQ-00958,32,193.8934066205558,2,Black Friday,1,2025-02-18,2025-01-21,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 58}"
+TRQ-00959,54,66.13450772070985,38,Black Friday,0,2025-03-23,,
+TRQ-00960,38,156.1523980892454,36,Black Friday,1,2025-06-08,2025-08-30,NaN
+TRQ-00961,31,128.68607808231013,37,Organico,0,2025-05-30,,
+TRQ-00962,19,82.56853153405022,15,CyberLunes,0,2025-03-02,,device: Mobile || browser: Android_Webview || session_mins: 118
+TRQ-00963,28,49.080579817155474,28,Navidad,0,2025-05-22,,NaN
+TRQ-00964,68,33.06341945028722,18,Navidad,0,2025-01-02,,NaN
+TRQ-00965,56,126.85246392738466,34,Organico,1,2025-03-07,2025-04-20,device: Mobile || browser: Android_Webview || session_mins: 51
+TRQ-00966,55,157.18041832117973,22,Navidad,0,2025-02-03,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 74}"
+TRQ-00967,51,132.3418081728148,11,Organico,0,2025-02-08,,device: Mobile || browser: Android_Webview || session_mins: 73
+TRQ-00968,55,110.75740531734007,13,CyberLunes,0,2025-01-26,,device: Mobile || browser: Android_Webview || session_mins: 48
+TRQ-00969,67,17.97073245201089,4,Black Friday,0,2025-06-04,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 1}"
+TRQ-00970,51,194.0128677429329,22,Black Friday,0,2025-03-01,,device: Mobile || browser: Android_Webview || session_mins: 18
+TRQ-00971,35,161.75569641436917,7,Organico,0,2025-06-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 97}"
+TRQ-00972,47,65.6361869731833,24,CyberLunes,0,2025-04-12,,device: Mobile || browser: Android_Webview || session_mins: 92
+TRQ-00973,32,196.19436257818163,4,CyberLunes,0,2025-05-08,,
+TRQ-00974,44,124.3575020309012,28,Black Friday,0,2025-02-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 95}"
+TRQ-00975,68,120.66030505937682,15,CyberLunes,0,2025-06-08,,device: Mobile || browser: Android_Webview || session_mins: 43
+TRQ-00976,51,152.1339040916111,1,CyberLunes,0,2025-02-27,,
+TRQ-00977,69,164.23625973712615,3,Organico,0,2025-06-27,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 22}"
+TRQ-00978,74,134.7309353929855,14,Black Friday,0,2025-02-18,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 53}"
+TRQ-00979,55,34.33819180957801,38,Navidad,0,2025-03-14,,device: Mobile || browser: Android_Webview || session_mins: 40
+TRQ-00980,50,74.27082613895469,1,Organico,0,2025-06-27,,NaN
+TRQ-00981,41,186.33589166194946,38,Black Friday,0,2025-06-25,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 3}"
+TRQ-00982,32,52.676966250331866,38,CyberLunes,1,2025-02-26,2025-01-19,device: Mobile || browser: Android_Webview || session_mins: 110
+TRQ-00983,47,80.71173452912753,21,Black Friday,1,2025-03-07,2025-06-22,
+TRQ-00984,72,92.09460775939723,29,Black Friday,0,2025-01-13,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 90}"
+TRQ-00985,59,93.48694804194592,5,Navidad,0,2025-03-11,,device: Mobile || browser: Android_Webview || session_mins: 31
+TRQ-00986,68,126.45852067395985,10,Black Friday,1,2025-05-15,2025-08-08,NaN
+TRQ-00987,34,189.18440917149445,28,CyberLunes,0,2025-03-31,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 114}"
+TRQ-00988,22,55.73161524817594,21,Navidad,0,2025-01-26,,NaN
+TRQ-00989,46,33.08526149717443,7,Organico,1,2025-01-02,2024-12-14,device: Mobile || browser: Android_Webview || session_mins: 28
+TRQ-00990,21,47.51939307338809,3,Organico,0,2025-06-10,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 58}"
+TRQ-00991,27,178.5157310397612,20,Organico,0,2025-05-12,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 31}"
+TRQ-00992,73,132.70405440448914,19,Organico,0,2025-02-19,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 19}"
+TRQ-00993,34,64.32228995544043,35,Black Friday,0,2025-05-28,,
+TRQ-00994,27,165.0299184040373,4,Organico,0,2025-03-02,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 55}"
+TRQ-00995,34,173.66029930905285,5,CyberLunes,0,2025-06-07,,NaN
+TRQ-00996,37,170.83772435115281,1,Navidad,0,2025-06-28,,NaN
+TRQ-00997,41,184.59604139151534,4,Navidad,0,2025-01-03,,device: Mobile || browser: Android_Webview || session_mins: 79
+TRQ-00998,22,57.9257938329387,12,CyberLunes,0,2025-03-15,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 37}"
+TRQ-00999,51,153.45796646179286,27,Organico,0,2025-05-26,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 79}"
+TRQ-01000,23,97.50250448208661,23,Organico,0,2025-04-21,,
+TRQ-01001,70,169.9797250491117,25,Black Friday,0,2025-06-14,,device: Mobile || browser: Android_Webview || session_mins: 5
+TRQ-01002,19,148.4132286607065,21,Organico,0,2025-03-03,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 90}"
+TRQ-01003,30,157.52501483494768,24,CyberLunes,1,2025-01-18,2025-01-27,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 52}"
+TRQ-01004,60,134.67074915940358,25,Navidad,0,2025-02-19,,NaN
+TRQ-01005,60,43.711466199244306,32,Black Friday,0,2025-03-18,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 73}"
+TRQ-01006,65,113.55511459041828,32,Navidad,0,2025-05-29,,device: Mobile || browser: Android_Webview || session_mins: 91
+TRQ-01007,28,197.08725050965657,5,Organico,0,2025-06-28,,device: Mobile || browser: Android_Webview || session_mins: 107
+TRQ-01008,68,188.1037326344526,36,Organico,0,2025-05-12,,
+TRQ-01009,64,18.203009801432216,39,Organico,0,2025-02-13,,device: Mobile || browser: Android_Webview || session_mins: 45
+TRQ-01010,74,41.31481498859306,16,Black Friday,0,2025-02-27,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 53}"
+TRQ-01011,40,35.02846695636676,33,Organico,0,2025-02-20,,device: Mobile || browser: Android_Webview || session_mins: 44
+TRQ-01012,72,147.93618289720615,21,CyberLunes,1,2025-06-28,2025-05-21,device: Mobile || browser: Android_Webview || session_mins: 88
+TRQ-01013,33,165.37921267281956,9,Organico,1,2025-02-07,2025-02-01,device: Mobile || browser: Android_Webview || session_mins: 52
+TRQ-01014,48,50.56715959902766,6,Black Friday,0,2025-02-16,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 46}"
+TRQ-01015,28,106.11201166084751,35,CyberLunes,0,2025-06-20,,device: Mobile || browser: Android_Webview || session_mins: 28
+TRQ-01016,71,169.733575322128,39,Navidad,0,2025-01-16,,NaN
+TRQ-01017,33,149.23229350558762,22,Black Friday,0,2025-06-11,,device: Mobile || browser: Android_Webview || session_mins: 5
+TRQ-01018,25,113.02506904345117,5,Black Friday,0,2025-03-22,,
+TRQ-01019,21,122.16606118716685,23,Black Friday,0,2025-05-20,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 102}"
+TRQ-01020,57,106.5885039140932,17,CyberLunes,1,2025-05-29,2025-08-25,device: Mobile || browser: Android_Webview || session_mins: 76
+TRQ-01021,21,66.53420575057591,12,CyberLunes,0,2025-01-25,,
+TRQ-01022,73,117.35417864321306,23,CyberLunes,0,2025-05-06,,device: Mobile || browser: Android_Webview || session_mins: 108
+TRQ-01023,42,140.88820738951722,16,Black Friday,0,2025-04-29,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 34}"
+TRQ-01024,20,175.93135401355346,3,CyberLunes,0,2025-03-22,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 8}"
+TRQ-01025,49,130.89535725605714,30,Navidad,0,2025-04-05,,
+TRQ-01026,20,154.61309203820002,22,Black Friday,0,2025-03-07,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 96}"
+TRQ-01027,44,40.41361064136887,9,Organico,1,2025-03-30,2025-03-29,NaN
+TRQ-01028,46,97.69592013976008,29,Organico,0,2025-03-30,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 79}"
+TRQ-01029,49,11.773007767147726,37,Black Friday,0,2025-05-26,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 23}"
+TRQ-01030,67,56.86898425910837,23,Organico,1,2025-05-07,2025-06-27,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 79}"
+TRQ-01031,68,148.02772587147092,13,Organico,0,2025-03-31,,
+TRQ-01032,-99,198.44389075637906,32,Organico,0,2025-03-03,,
+TRQ-01033,38,28.843838921571024,23,Navidad,1,2025-01-16,2025-01-15,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 20}"
+TRQ-01034,22,86.28392001364477,17,CyberLunes,0,2025-04-05,,
+TRQ-01035,35,162.0134840528403,21,Navidad,0,2025-02-21,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 63}"
+TRQ-01036,45,48.76677057949078,2,Navidad,0,2025-01-28,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 103}"
+TRQ-01037,59,115.46614036743439,37,Navidad,1,2025-03-16,2025-02-13,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 105}"
+TRQ-01038,39,149.2835462456382,6,Black Friday,0,2025-03-03,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 112}"
+TRQ-01039,38,127.03723554943402,18,Organico,0,2025-02-01,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 96}"
+TRQ-01040,23,45.72469957692906,30,Organico,0,2025-01-13,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 21}"
+TRQ-01041,18,77.52306805029049,22,Black Friday,0,2025-02-16,,
+TRQ-01042,22,158.92043905222548,33,CyberLunes,0,2025-06-09,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 31}"
+TRQ-01043,58,115.30303768508315,30,CyberLunes,0,2025-02-02,,NaN
+TRQ-01044,29,10.99362657315342,17,Organico,0,2025-06-10,,
+TRQ-01045,43,154.58824440533783,32,Navidad,0,2025-03-03,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 15}"
+TRQ-01046,63,16.709157438645423,14,Navidad,1,2025-02-16,2025-04-27,NaN
+TRQ-01047,51,151.68941871893412,10,Black Friday,0,2025-03-27,,
+TRQ-01048,66,48.47130643139511,36,Navidad,0,2025-03-22,,NaN
+TRQ-01049,31,192.03396122268225,34,Black Friday,1,2025-05-16,2025-09-02,device: Mobile || browser: Android_Webview || session_mins: 118
+TRQ-01050,43,79.90874274739605,9,Black Friday,0,2025-01-05,,
+TRQ-01051,62,72.11700710423503,28,Organico,0,2025-02-22,,
+TRQ-01052,44,38.28872956316449,11,Organico,1,2025-06-09,2025-07-01,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 19}"
+TRQ-01053,26,68.06480094314082,14,Organico,0,2025-04-23,,NaN
+TRQ-01054,43,176.5636447473581,39,Organico,0,2025-02-06,,NaN
+TRQ-01055,74,199.30352414917698,19,Black Friday,0,2025-02-24,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 67}"
+TRQ-01056,64,79.97881079630119,15,Black Friday,0,2025-04-30,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 62}"
+TRQ-01057,74,95.23601988136309,28,Organico,0,2025-05-08,,NaN
+TRQ-01058,39,147.19347825852003,24,Organico,0,2025-01-18,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 48}"
+TRQ-01059,64,178.37719828836416,8,CyberLunes,0,2025-03-17,,device: Mobile || browser: Android_Webview || session_mins: 32
+TRQ-01060,73,122.67842349548899,9,Black Friday,0,2025-06-08,,NaN
+TRQ-01061,47,84.38988265378758,33,CyberLunes,0,2025-04-16,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 41}"
+TRQ-01062,60,88.39814976123851,33,Navidad,0,2025-05-31,,device: Mobile || browser: Android_Webview || session_mins: 103
+TRQ-01063,65,142.1674478343933,19,Black Friday,1,2025-04-28,2025-08-17,device: Mobile || browser: Android_Webview || session_mins: 20
+TRQ-01064,34,10.61147008481295,3,Black Friday,0,2025-02-13,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 31}"
+TRQ-01065,43,127.72197411736973,10,CyberLunes,1,2025-04-23,2025-07-03,device: Mobile || browser: Android_Webview || session_mins: 103
+TRQ-01066,53,77.5436719838579,1,Black Friday,0,2025-04-26,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 11}"
+TRQ-01067,18,160.897492942646,29,Organico,0,2025-01-28,,
+TRQ-01068,25,27.66822156639511,34,Black Friday,0,2025-02-07,,
+TRQ-01069,66,121.7584307201942,13,Navidad,0,2025-02-16,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 87}"
+TRQ-01070,52,101.38484907836352,1,Navidad,0,2025-04-24,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 117}"
+TRQ-01071,69,132.04184992199322,34,Organico,0,2025-02-05,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 103}"
+TRQ-01072,32,22.322182951763985,29,CyberLunes,0,2025-05-13,,
+TRQ-01073,64,120.19691961134494,13,Organico,0,2025-03-22,,
+TRQ-01074,73,116.68207171230951,29,Navidad,0,2025-03-22,,NaN
+TRQ-01075,39,116.52541793907248,39,Organico,0,2025-06-04,,NaN
+TRQ-01076,31,124.66265665332641,24,Organico,0,2025-05-02,,device: Mobile || browser: Android_Webview || session_mins: 75
+TRQ-01077,43,138.52890807300884,26,Black Friday,0,2025-05-28,,NaN
+TRQ-01078,45,162.94790993934626,17,CyberLunes,0,2025-05-03,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 76}"
+TRQ-01079,40,61.26593682436072,7,Black Friday,0,2025-03-23,,device: Mobile || browser: Android_Webview || session_mins: 89
+TRQ-01080,31,166.7593879342118,13,Navidad,0,2025-06-23,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 46}"
+TRQ-01081,41,104.66857963005619,5,CyberLunes,1,2025-06-04,2025-07-10,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 104}"
+TRQ-01082,19,24.641073035522922,26,CyberLunes,0,2025-05-31,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 22}"
+TRQ-01083,62,21.12467655635605,3,Black Friday,0,2025-04-30,,
+TRQ-01084,43,73.50528055225155,7,CyberLunes,0,2025-02-28,,device: Mobile || browser: Android_Webview || session_mins: 60
+TRQ-01085,31,159.13042565117883,39,CyberLunes,1,2025-03-05,2025-03-28,
+TRQ-01086,73,144.459377600774,1,Black Friday,0,2025-06-06,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 118}"
+TRQ-01087,68,159.83684328775723,17,CyberLunes,1,2025-06-22,2025-07-08,device: Mobile || browser: Android_Webview || session_mins: 77
+TRQ-01088,24,108.28112072390579,25,Black Friday,0,2025-04-11,,NaN
+TRQ-01089,20,93.6378096115432,3,Black Friday,0,2025-06-21,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 15}"
+TRQ-01090,64,38.01598007419395,15,Black Friday,1,2025-06-15,2025-09-11,device: Mobile || browser: Android_Webview || session_mins: 31
+TRQ-01091,40,72.3566231857692,29,Organico,0,2025-03-08,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 21}"
+TRQ-01092,63,92.4636795730363,32,Navidad,0,2025-05-26,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 113}"
+TRQ-01093,60,26.834081639127273,26,Black Friday,1,2025-06-18,2025-05-07,NaN
+TRQ-01094,64,51.916271015130135,16,Black Friday,1,2025-06-16,2025-05-22,device: Mobile || browser: Android_Webview || session_mins: 47
+TRQ-01095,62,123.66280587211037,25,Organico,0,2025-03-27,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 67}"
+TRQ-01096,35,149.77599170544607,28,Organico,0,2025-05-18,,NaN
+TRQ-01097,55,199.68602716466043,9,Organico,1,2025-05-25,2025-05-04,device: Mobile || browser: Android_Webview || session_mins: 90
+TRQ-01098,52,187.29153295527595,1,Navidad,0,2025-05-04,,device: Mobile || browser: Android_Webview || session_mins: 78
+TRQ-01099,68,132.0873879116864,29,CyberLunes,1,2025-01-03,2025-04-30,device: Mobile || browser: Android_Webview || session_mins: 14
+TRQ-01100,32,90.03713012587367,22,Black Friday,0,2025-04-17,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 54}"
+TRQ-01101,42,130.87369929456423,16,CyberLunes,0,2025-04-19,,device: Mobile || browser: Android_Webview || session_mins: 92
+TRQ-01102,72,159.27380743524407,7,Organico,1,2025-03-14,2025-03-10,NaN
+TRQ-01103,54,32.48387627544359,14,Navidad,0,2025-06-21,,device: Mobile || browser: Android_Webview || session_mins: 45
+TRQ-01104,45,87.88192904229477,29,Organico,0,2025-05-07,,
+TRQ-01105,27,169.56243427076726,19,Black Friday,0,2025-06-20,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 40}"
+TRQ-01106,56,82.92826086727837,19,Organico,0,2025-02-27,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 67}"
+TRQ-01107,74,118.65573153316544,2,Black Friday,0,2025-03-23,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 66}"
+TRQ-01108,34,121.67617856381766,15,CyberLunes,1,2025-06-08,2025-07-16,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 79}"
+TRQ-01109,56,45.05048809539148,3,Black Friday,0,2025-05-22,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 42}"
+TRQ-01110,39,78.8247339139348,11,Navidad,0,2025-01-20,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 35}"
+TRQ-01111,43,73.5571448609671,30,Black Friday,1,2025-01-08,2025-02-28,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 77}"
+TRQ-01112,61,14.977374621092311,18,Organico,0,2025-05-18,,
+TRQ-01113,42,14.596435139357496,2,CyberLunes,0,2025-02-24,,
+TRQ-01114,34,168.02243829839696,32,Navidad,0,2025-04-15,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 24}"
+TRQ-01115,30,61.88345389483436,8,Navidad,1,2025-03-28,2025-05-09,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 13}"
+TRQ-01116,37,108.43496558537494,22,Black Friday,0,2025-03-24,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 100}"
+TRQ-01117,42,66.75785898186689,6,Organico,0,2025-03-03,,device: Mobile || browser: Android_Webview || session_mins: 99
+TRQ-01118,21,188.7290565719147,12,Organico,0,2025-03-29,,device: Mobile || browser: Android_Webview || session_mins: 42
+TRQ-01119,27,59.266384184497014,36,Organico,0,2025-01-03,,device: Mobile || browser: Android_Webview || session_mins: 73
+TRQ-01120,20,91.63479442039767,15,Organico,0,2025-06-28,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 103}"
+TRQ-01121,58,175.81874759207435,28,Organico,0,2025-02-01,,device: Mobile || browser: Android_Webview || session_mins: 18
+TRQ-01122,62,169.96737769044364,18,Black Friday,0,2025-02-03,,NaN
+TRQ-01123,35,45.35926939079269,2,Organico,1,2025-03-22,2025-06-27,NaN
+TRQ-01124,64,162.502228861185,13,Black Friday,0,2025-01-12,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 2}"
+TRQ-01125,53,97.0555084801996,15,Black Friday,0,2025-06-11,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 118}"
+TRQ-01126,64,101.76408569621749,20,CyberLunes,0,2025-05-09,,device: Mobile || browser: Android_Webview || session_mins: 109
+TRQ-01127,39,35.36119475902932,29,Organico,0,2025-05-16,,device: Mobile || browser: Android_Webview || session_mins: 109
+TRQ-01128,51,25.314287613853686,29,Organico,0,2025-05-09,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 65}"
+TRQ-01129,64,148.30846832501538,3,Black Friday,0,2025-02-01,,NaN
+TRQ-01130,25,104.32761894750695,19,Organico,0,2025-06-26,,
+TRQ-01131,57,93.00163349688411,3,Organico,0,2025-05-07,,NaN
+TRQ-01132,66,148.60656344395537,14,CyberLunes,0,2025-02-17,,NaN
+TRQ-01133,61,155.44745080831086,4,Black Friday,0,2025-04-18,,NaN
+TRQ-01134,36,40.19255185717718,11,Organico,0,2025-01-20,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 10}"
+TRQ-01135,59,125.94277840075185,31,Black Friday,0,2025-03-23,,
+TRQ-01136,58,35.71727563276025,32,Navidad,0,2025-05-04,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 6}"
+TRQ-01137,54,152.7612663455187,27,CyberLunes,0,2025-05-15,,NaN
+TRQ-01138,23,134.82147969075652,30,Black Friday,0,2025-04-18,,NaN
+TRQ-01139,69,191.756778005857,2,Organico,1,2025-02-19,2025-03-08,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 113}"
+TRQ-01140,43,23.102023107720022,9,Navidad,0,2025-03-15,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 111}"
+TRQ-01141,51,20.840397018738322,28,Organico,0,2025-02-20,,device: Mobile || browser: Android_Webview || session_mins: 66
+TRQ-01142,73,63.615544191708025,31,Organico,0,2025-03-23,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 18}"
+TRQ-01143,62,59.72407990982214,34,Organico,0,2025-04-06,,device: Mobile || browser: Android_Webview || session_mins: 13
+TRQ-01144,23,56.925971823679966,15,Navidad,0,2025-01-13,,NaN
+TRQ-01145,54,182.18837029899697,25,CyberLunes,1,2025-01-24,2025-04-23,NaN
+TRQ-01146,-99,57.41377797140616,36,Navidad,0,2025-02-24,,device: Mobile || browser: Android_Webview || session_mins: 55
+TRQ-01147,50,61.67044796443989,8,CyberLunes,1,2025-04-29,2025-03-18,NaN
+TRQ-01148,70,154.2856698594131,9,Organico,1,2025-03-01,2025-05-27,
+TRQ-01149,39,95.4505700656026,37,Black Friday,0,2025-06-14,,
+TRQ-01150,38,157.57500582148444,39,Navidad,0,2025-01-04,,
+TRQ-01151,23,22.419569937233195,32,Black Friday,0,2025-02-28,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 5}"
+TRQ-01152,23,102.63852679794302,17,Organico,0,2025-02-27,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 49}"
+TRQ-01153,72,16.3865840348237,35,Organico,1,2025-05-26,2025-09-06,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 14}"
+TRQ-01154,65,21.90410865651736,37,Black Friday,0,2025-06-17,,device: Mobile || browser: Android_Webview || session_mins: 75
+TRQ-01155,21,182.2231161354381,19,Organico,1,2025-04-01,2025-05-07,NaN
+TRQ-01156,47,36.45662051234308,29,Black Friday,0,2025-02-25,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 65}"
+TRQ-01157,28,111.15992963229125,7,Navidad,1,2025-02-15,2025-05-17,NaN
+TRQ-01158,47,88.10816449413424,28,Organico,1,2025-01-02,2025-04-22,device: Mobile || browser: Android_Webview || session_mins: 67
+TRQ-01159,48,75.99523198918011,9,Black Friday,0,2025-01-22,,device: Mobile || browser: Android_Webview || session_mins: 113
+TRQ-01160,41,180.96833568058176,28,Organico,0,2025-01-22,,
+TRQ-01161,72,14.146445387343006,6,CyberLunes,0,2025-02-22,,device: Mobile || browser: Android_Webview || session_mins: 90
+TRQ-01162,26,136.12004037336192,29,CyberLunes,1,2025-03-24,2025-06-17,device: Mobile || browser: Android_Webview || session_mins: 52
+TRQ-01163,72,193.0449425005746,17,Organico,1,2025-06-21,2025-07-18,device: Mobile || browser: Android_Webview || session_mins: 55
+TRQ-01164,20,116.43195485774997,16,CyberLunes,1,2025-03-09,2025-05-02,NaN
+TRQ-01165,68,187.99626778628746,23,Organico,0,2025-04-24,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 41}"
+TRQ-01166,48,19.928997064344514,31,Organico,0,2025-02-14,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 6}"
+TRQ-01167,57,89.57073062409067,3,CyberLunes,1,2025-06-10,2025-06-27,device: Mobile || browser: Android_Webview || session_mins: 52
+TRQ-01168,54,59.42998028278972,21,Navidad,0,2025-01-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 2}"
+TRQ-01169,53,148.85598334633866,26,CyberLunes,1,2025-03-06,2025-06-19,NaN
+TRQ-01170,41,196.44644719447686,36,Black Friday,0,2025-03-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 10}"
+TRQ-01171,48,58.74071186440708,37,CyberLunes,0,2025-03-10,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 28}"
+TRQ-01172,23,134.29317428007414,22,Black Friday,0,2025-01-29,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 68}"
+TRQ-01173,19,47.638550224350624,12,Black Friday,0,2025-04-27,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 12}"
+TRQ-01174,37,117.41274836860588,13,Black Friday,0,2025-02-21,,NaN
+TRQ-01175,45,98.14717247078387,11,Organico,0,2025-01-05,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 66}"
+TRQ-01176,28,194.68101262999204,16,Organico,0,2025-03-21,,device: Mobile || browser: Android_Webview || session_mins: 42
+TRQ-01177,21,125.62018181232865,8,Organico,0,2025-01-18,,NaN
+TRQ-01178,32,76.40621069649556,2,Navidad,0,2025-04-19,,NaN
+TRQ-01179,23,31.67819912870734,30,Organico,0,2025-03-16,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 73}"
+TRQ-01180,71,38.73689745963756,30,Black Friday,1,2025-06-25,2025-08-06,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 46}"
+TRQ-01181,66,52.81021669073467,12,Organico,0,2025-01-24,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 104}"
+TRQ-01182,47,57.68366565465662,10,Organico,1,2025-01-19,2025-01-18,device: Mobile || browser: Android_Webview || session_mins: 54
+TRQ-01183,73,171.6170509898162,11,Black Friday,0,2025-05-10,,NaN
+TRQ-01184,55,116.63232977367973,15,Navidad,0,2025-02-05,,device: Mobile || browser: Android_Webview || session_mins: 116
+TRQ-01185,68,109.44427316112963,16,Organico,0,2025-03-06,,device: Mobile || browser: Android_Webview || session_mins: 96
+TRQ-01186,74,31.80608565515132,17,Organico,0,2025-03-01,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 38}"
+TRQ-01187,-99,173.42654173639264,26,Organico,0,2025-01-02,,device: Mobile || browser: Android_Webview || session_mins: 92
+TRQ-01188,32,147.33471760961191,2,Black Friday,0,2025-05-12,,
+TRQ-01189,28,22.856988761000302,12,Black Friday,0,2025-03-09,,device: Mobile || browser: Android_Webview || session_mins: 116
+TRQ-01190,25,144.48866847365605,26,CyberLunes,0,2025-02-07,,
+TRQ-01191,43,113.27226129510275,23,Organico,0,2025-01-30,,device: Mobile || browser: Android_Webview || session_mins: 72
+TRQ-01192,68,25.527815691887866,18,CyberLunes,0,2025-03-31,,NaN
+TRQ-01193,62,97.07712189044473,32,Organico,0,2025-06-11,,device: Mobile || browser: Android_Webview || session_mins: 83
+TRQ-01194,61,102.09229455470893,38,CyberLunes,0,2025-04-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 12}"
+TRQ-01195,22,41.49716263102239,3,CyberLunes,0,2025-05-03,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 82}"
+TRQ-01196,23,189.68264793005363,38,Black Friday,0,2025-04-01,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 47}"
+TRQ-01197,43,171.49532058132576,3,Organico,0,2025-05-13,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 3}"
+TRQ-01198,71,137.11424409253058,30,CyberLunes,1,2025-01-15,2025-02-02,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 50}"
+TRQ-01199,21,97.83615659011537,1,Black Friday,1,2025-06-11,2025-09-23,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 29}"
+TRQ-01200,36,88.23545290105662,30,Black Friday,0,2025-05-31,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 77}"
+TRQ-01201,37,133.6849587586813,32,Black Friday,0,2025-06-26,,NaN
+TRQ-01202,50,113.63205518731203,28,CyberLunes,0,2025-05-12,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 14}"
+TRQ-01203,37,21.831890117558267,21,Organico,0,2025-03-27,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 24}"
+TRQ-01204,66,107.37550326636303,13,Navidad,0,2025-06-01,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 86}"
+TRQ-01205,29,163.2166872742395,27,CyberLunes,0,2025-01-22,,device: Mobile || browser: Android_Webview || session_mins: 104
+TRQ-01206,64,97.25557674342203,36,Organico,0,2025-06-21,,device: Mobile || browser: Android_Webview || session_mins: 90
+TRQ-01207,18,19.871749735311,7,Organico,0,2025-01-27,,
+TRQ-01208,43,159.3928578829663,22,Navidad,0,2025-02-11,,NaN
+TRQ-01209,31,48.259118605835134,10,Navidad,0,2025-05-03,,NaN
+TRQ-01210,55,59.13795862872737,39,Organico,0,2025-02-08,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 57}"
+TRQ-01211,54,41.294207152136224,15,Organico,0,2025-03-30,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 86}"
+TRQ-01212,28,72.74086232558453,15,Organico,0,2025-01-12,,NaN
+TRQ-01213,53,153.78278608084065,4,Black Friday,0,2025-01-30,,NaN
+TRQ-01214,30,108.6833133057481,32,Navidad,0,2025-03-02,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 43}"
+TRQ-01215,60,48.92744208863539,23,Organico,0,2025-03-03,,
+TRQ-01216,20,176.78771484888776,6,CyberLunes,0,2025-05-28,,
+TRQ-01217,50,177.12055244079053,24,Black Friday,1,2025-06-24,2025-06-07,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 112}"
+TRQ-01218,23,175.40990075874132,20,Organico,0,2025-06-27,,
+TRQ-01219,67,55.37128016249246,37,Navidad,1,2025-01-23,2025-04-16,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 115}"
+TRQ-01220,73,95.73547539438773,20,Black Friday,0,2025-03-20,,device: Mobile || browser: Android_Webview || session_mins: 57
+TRQ-01221,27,197.14803466676628,12,Navidad,0,2025-04-24,,NaN
+TRQ-01222,22,156.68237049889817,33,CyberLunes,0,2025-05-04,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 75}"
+TRQ-01223,40,15.161810032856366,28,Black Friday,0,2025-05-23,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 58}"
+TRQ-01224,27,22.38887233949349,8,Organico,0,2025-02-14,,device: Mobile || browser: Android_Webview || session_mins: 38
+TRQ-01225,61,98.14696159434322,1,Black Friday,0,2025-05-25,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 99}"
+TRQ-01226,19,182.75183911369643,37,CyberLunes,1,2025-04-08,2025-04-22,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 72}"
+TRQ-01227,30,112.35334161101571,22,Organico,1,2025-03-19,2025-03-07,device: Mobile || browser: Android_Webview || session_mins: 19
+TRQ-01228,57,104.58437652651514,6,Black Friday,0,2025-05-21,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 65}"
+TRQ-01229,19,30.04000299175981,21,Black Friday,0,2025-02-25,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 77}"
+TRQ-01230,37,134.78821989761587,32,Organico,0,2025-02-21,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 41}"
+TRQ-01231,18,166.19960051404283,35,Organico,0,2025-04-13,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 98}"
+TRQ-01232,54,82.27980142643685,15,Navidad,1,2025-06-17,2025-05-21,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 40}"
+TRQ-01233,26,157.3662516758122,5,Organico,1,2025-06-11,2025-08-15,NaN
+TRQ-01234,34,193.2505642411542,6,CyberLunes,1,2025-06-11,2025-05-18,device: Mobile || browser: Android_Webview || session_mins: 13
+TRQ-01235,26,48.71562723426093,25,Organico,0,2025-01-30,,NaN
+TRQ-01236,28,109.43262992700085,29,Navidad,0,2025-03-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 78}"
+TRQ-01237,32,64.55621203606935,7,Organico,0,2025-06-09,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 91}"
+TRQ-01238,41,160.64233961642947,13,Navidad,1,2025-03-22,2025-05-22,NaN
+TRQ-01239,55,119.74273951741992,38,Navidad,0,2025-02-01,,
+TRQ-01240,72,130.57065933455772,18,Black Friday,0,2025-04-23,,NaN
+TRQ-01241,52,161.60369032701988,2,Black Friday,0,2025-02-16,,NaN
+TRQ-01242,150,85.23438980586643,8,Organico,1,2025-04-08,2025-07-14,device: Mobile || browser: Android_Webview || session_mins: 90
+TRQ-01243,48,183.8671129973382,11,Navidad,0,2025-02-22,,NaN
+TRQ-01244,66,111.27548477676659,33,Navidad,0,2025-05-19,,NaN
+TRQ-01245,22,40.01141633871612,38,Black Friday,1,2025-03-16,2025-04-29,NaN
+TRQ-01246,61,142.22083245207247,27,Navidad,1,2025-02-11,2025-01-20,
+TRQ-01247,-99,160.71965658326835,20,Organico,0,2025-03-19,,device: Mobile || browser: Android_Webview || session_mins: 93
+TRQ-01248,31,70.18471864283006,12,Organico,0,2025-05-12,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 105}"
+TRQ-01249,70,172.86405882976305,31,Navidad,1,2025-04-25,2025-07-20,NaN
+TRQ-01250,73,182.16721840549562,27,Organico,1,2025-02-22,2025-01-20,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 23}"
+TRQ-01251,28,62.611852601783696,32,Organico,0,2025-06-12,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 27}"
+TRQ-01252,26,196.86907981589218,10,Navidad,0,2025-06-27,,NaN
+TRQ-01253,51,36.7351903292641,3,Navidad,0,2025-06-06,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 74}"
+TRQ-01254,29,48.3829769964731,27,Organico,1,2025-03-29,2025-03-31,NaN
+TRQ-01255,52,45.00271945522496,35,Navidad,0,2025-04-20,,NaN
+TRQ-01256,52,179.8580449014954,31,Organico,0,2025-05-22,,device: Mobile || browser: Android_Webview || session_mins: 64
+TRQ-01257,18,134.31558494174277,15,Navidad,0,2025-03-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 95}"
+TRQ-01258,57,38.89981381223184,16,Navidad,1,2025-05-01,2025-08-12,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 64}"
+TRQ-01259,39,93.66144948998631,13,Black Friday,0,2025-03-09,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 76}"
+TRQ-01260,46,126.90662476326239,35,Black Friday,0,2025-03-03,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 17}"
+TRQ-01261,25,25.858176147982824,11,Organico,0,2025-03-13,,device: Mobile || browser: Android_Webview || session_mins: 41
+TRQ-01262,28,177.65910999739435,21,Navidad,0,2025-06-02,,
+TRQ-01263,58,162.6846717338917,11,Navidad,0,2025-06-01,,device: Mobile || browser: Android_Webview || session_mins: 28
+TRQ-01264,54,105.98928697956127,30,Organico,0,2025-01-31,,device: Mobile || browser: Android_Webview || session_mins: 65
+TRQ-01265,31,193.75405689924239,35,Navidad,0,2025-05-27,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 98}"
+TRQ-01266,47,89.37458606226895,22,Navidad,1,2025-04-07,2025-03-17,device: Mobile || browser: Android_Webview || session_mins: 38
+TRQ-01267,52,196.9809606169346,38,Organico,0,2025-02-26,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 85}"
+TRQ-01268,38,136.90479977268916,31,Organico,0,2025-02-23,,NaN
+TRQ-01269,54,130.58754191824886,14,CyberLunes,0,2025-01-08,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 6}"
+TRQ-01270,22,41.53143010619915,24,Black Friday,0,2025-04-08,,
+TRQ-01271,36,177.56627407788235,32,Black Friday,0,2025-04-24,,device: Mobile || browser: Android_Webview || session_mins: 69
+TRQ-01272,31,91.22304070491688,36,Black Friday,1,2025-05-06,2025-07-08,device: Mobile || browser: Android_Webview || session_mins: 117
+TRQ-01273,43,40.824347098671076,32,Navidad,0,2025-05-13,,NaN
+TRQ-01274,21,12.395428795394217,15,Black Friday,0,2025-06-12,,NaN
+TRQ-01275,42,116.35357989129268,35,CyberLunes,1,2025-06-11,2025-05-15,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 10}"
+TRQ-01276,62,110.2059282033085,3,Black Friday,0,2025-05-02,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 90}"
+TRQ-01277,59,146.67718825014012,16,CyberLunes,1,2025-02-08,2025-01-03,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 10}"
+TRQ-01278,42,179.14903007338242,5,Navidad,0,2025-05-03,,
+TRQ-01279,35,25.08725108217561,21,Organico,0,2025-01-27,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 8}"
+TRQ-01280,57,148.98433316466884,10,Organico,0,2025-05-10,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 110}"
+TRQ-01281,25,45.60826937854062,19,Black Friday,0,2025-01-05,,device: Mobile || browser: Android_Webview || session_mins: 40
+TRQ-01282,56,173.05364009986116,25,CyberLunes,0,2025-02-09,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 62}"
+TRQ-01283,150,165.62206763371466,4,Black Friday,0,2025-02-24,,device: Mobile || browser: Android_Webview || session_mins: 82
+TRQ-01284,31,112.75081344725344,29,Navidad,0,2025-06-11,,device: Mobile || browser: Android_Webview || session_mins: 70
+TRQ-01285,49,144.9461317384292,19,Black Friday,1,2025-02-03,2024-12-29,
+TRQ-01286,68,69.7265215049122,2,Navidad,0,2025-01-21,,device: Mobile || browser: Android_Webview || session_mins: 85
+TRQ-01287,55,99.52190079723478,10,Black Friday,1,2025-01-17,2025-01-26,device: Mobile || browser: Android_Webview || session_mins: 106
+TRQ-01288,50,166.1110105649896,25,Organico,0,2025-05-30,,NaN
+TRQ-01289,40,97.26038746291064,20,Black Friday,0,2025-06-23,,
+TRQ-01290,32,77.98167041183395,19,Black Friday,1,2025-05-08,2025-08-05,device: Mobile || browser: Android_Webview || session_mins: 32
+TRQ-01291,50,103.90036497755698,23,Organico,0,2025-03-29,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 103}"
+TRQ-01292,42,167.3673579630715,24,Black Friday,1,2025-03-24,2025-03-09,device: Mobile || browser: Android_Webview || session_mins: 32
+TRQ-01293,34,73.68952900046582,11,CyberLunes,0,2025-03-04,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 40}"
+TRQ-01294,50,43.01470269579132,34,Navidad,0,2025-02-01,,device: Mobile || browser: Android_Webview || session_mins: 69
+TRQ-01295,64,145.28266386284835,28,Navidad,0,2025-02-12,,
+TRQ-01296,72,166.93586041453554,5,Organico,0,2025-01-13,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 111}"
+TRQ-01297,19,29.121120919471334,5,Black Friday,0,2025-03-07,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 98}"
+TRQ-01298,31,55.576081423629496,21,Black Friday,0,2025-03-15,,NaN
+TRQ-01299,70,36.97467805458884,12,Black Friday,0,2025-05-12,,NaN
+TRQ-01300,57,76.10886820061165,4,CyberLunes,0,2025-04-26,,device: Mobile || browser: Android_Webview || session_mins: 25
+TRQ-01301,57,95.5666859920284,20,Organico,0,2025-05-18,,NaN
+TRQ-01302,68,152.27700402302824,38,Organico,0,2025-04-17,,
+TRQ-01303,56,133.71804112751806,25,Black Friday,0,2025-06-29,,
+TRQ-01304,68,127.97642782090192,14,Navidad,1,2025-01-17,2025-04-20,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 66}"
+TRQ-01305,23,76.95123985583433,11,Black Friday,1,2025-03-20,2025-06-25,NaN
+TRQ-01306,-99,169.8750350861044,32,Organico,0,2025-05-06,,
+TRQ-01307,20,99.54456180565127,11,CyberLunes,1,2025-05-12,2025-05-16,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 67}"
+TRQ-01308,24,196.02993822287937,18,CyberLunes,0,2025-06-02,,NaN
+TRQ-01309,68,130.48700627619002,27,Navidad,1,2025-05-22,2025-04-10,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 19}"
+TRQ-01310,25,33.99030089725552,18,Navidad,0,2025-05-11,,device: Mobile || browser: Android_Webview || session_mins: 73
+TRQ-01311,59,138.47373679433247,23,Navidad,0,2025-04-23,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 50}"
+TRQ-01312,69,71.76976293202281,11,CyberLunes,0,2025-05-08,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 7}"
+TRQ-01313,32,140.4021673703585,21,Black Friday,0,2025-01-22,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 49}"
+TRQ-01314,64,23.23181815085709,5,Black Friday,0,2025-05-28,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 104}"
+TRQ-01315,46,43.227473063432285,23,Black Friday,0,2025-03-31,,NaN
+TRQ-01316,50,172.5900791920994,25,Organico,1,2025-02-17,2025-02-15,device: Mobile || browser: Android_Webview || session_mins: 105
+TRQ-01317,69,53.16411583446783,10,CyberLunes,0,2025-05-31,,NaN
+TRQ-01318,47,169.03781379615862,22,Black Friday,0,2025-06-11,,
+TRQ-01319,56,63.062456806337984,19,Navidad,0,2025-06-10,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 27}"
+TRQ-01320,44,132.14756291115447,1,Black Friday,0,2025-03-27,,device: Mobile || browser: Android_Webview || session_mins: 44
+TRQ-01321,53,141.88860896686788,7,Navidad,0,2025-06-17,,NaN
+TRQ-01322,46,107.40440309756006,4,Organico,0,2025-05-09,,NaN
+TRQ-01323,55,68.00902857237895,1,CyberLunes,0,2025-03-14,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 95}"
+TRQ-01324,74,50.402431510508265,15,Organico,0,2025-02-12,,
+TRQ-01325,50,16.305977366860983,12,Navidad,0,2025-01-10,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 26}"
+TRQ-01326,54,67.74981623573753,22,Black Friday,1,2025-01-26,2025-02-25,NaN
+TRQ-01327,44,134.10093020094376,22,Black Friday,1,2025-01-03,2025-02-18,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 102}"
+TRQ-01328,72,188.27791550521172,17,Black Friday,0,2025-01-20,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 73}"
+TRQ-01329,50,175.5288516299799,29,Organico,0,2025-01-21,,device: Mobile || browser: Android_Webview || session_mins: 100
+TRQ-01330,21,155.55230754170748,14,Organico,0,2025-03-12,,NaN
+TRQ-01331,39,159.80499521812675,20,Organico,0,2025-01-18,,
+TRQ-01332,19,136.34713166043912,33,Organico,0,2025-05-05,,NaN
+TRQ-01333,27,59.45450293754057,15,Organico,0,2025-03-31,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 117}"
+TRQ-01334,22,182.36705583410767,12,Navidad,1,2025-04-05,2025-05-08,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 81}"
+TRQ-01335,27,137.43913926210848,20,Black Friday,0,2025-03-26,,device: Mobile || browser: Android_Webview || session_mins: 21
+TRQ-01336,50,116.4837198862836,30,Navidad,0,2025-05-12,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 6}"
+TRQ-01337,71,31.087999150561405,38,CyberLunes,0,2025-03-29,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 115}"
+TRQ-01338,55,94.94055332322083,3,Organico,0,2025-02-21,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 58}"
+TRQ-01339,30,97.468071528366,28,Black Friday,0,2025-03-24,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 48}"
+TRQ-01340,48,174.2670858093073,26,CyberLunes,0,2025-06-04,,device: Mobile || browser: Android_Webview || session_mins: 46
+TRQ-01341,64,113.8631618356798,30,CyberLunes,0,2025-01-09,,
+TRQ-01342,53,82.27610430437784,13,Black Friday,0,2025-06-15,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 92}"
+TRQ-01343,62,195.5920624170253,13,Navidad,0,2025-05-02,,device: Mobile || browser: Android_Webview || session_mins: 22
+TRQ-01344,41,31.03691273199998,2,Black Friday,0,2025-06-05,,device: Mobile || browser: Android_Webview || session_mins: 101
+TRQ-01345,69,90.28420137926948,37,Navidad,0,2025-06-23,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 83}"
+TRQ-01346,73,17.984688282567006,38,Black Friday,0,2025-01-05,,
+TRQ-01347,32,150.58178294571675,2,Navidad,0,2025-03-28,,NaN
+TRQ-01348,46,184.43454491783862,36,Black Friday,1,2025-05-09,2025-06-21,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 117}"
+TRQ-01349,25,63.207092614592995,26,CyberLunes,0,2025-04-21,,device: Mobile || browser: Android_Webview || session_mins: 119
+TRQ-01350,22,173.08491859183297,11,Navidad,1,2025-04-10,2025-05-15,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 7}"
+TRQ-01351,46,65.52146378776058,8,Black Friday,1,2025-02-07,2025-03-21,NaN
+TRQ-01352,150,183.0463307123439,22,CyberLunes,0,2025-03-13,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 16}"
+TRQ-01353,21,153.25276168338894,20,Black Friday,0,2025-02-03,,
+TRQ-01354,29,162.93228759987335,8,CyberLunes,1,2025-02-01,2025-01-17,device: Mobile || browser: Android_Webview || session_mins: 16
+TRQ-01355,62,13.421245564086355,29,Navidad,0,2025-05-06,,device: Mobile || browser: Android_Webview || session_mins: 76
+TRQ-01356,19,192.93396784406494,26,Black Friday,0,2025-01-13,,device: Mobile || browser: Android_Webview || session_mins: 2
+TRQ-01357,44,148.06748849336142,30,Navidad,1,2025-01-12,2024-12-09,NaN
+TRQ-01358,48,67.90270812336533,17,Organico,0,2025-03-30,,device: Mobile || browser: Android_Webview || session_mins: 110
+TRQ-01359,68,167.5849863231809,20,Black Friday,0,2025-03-14,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 78}"
+TRQ-01360,68,63.48902769883669,16,Organico,0,2025-02-02,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 20}"
+TRQ-01361,53,175.8232295175643,7,Navidad,1,2025-02-27,2025-06-13,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 112}"
+TRQ-01362,53,31.390274178268033,16,Navidad,0,2025-06-16,,
+TRQ-01363,43,143.70033571755118,27,Navidad,0,2025-03-28,,NaN
+TRQ-01364,60,112.73271056253296,23,Navidad,1,2025-01-20,2025-03-06,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 95}"
+TRQ-01365,44,28.341549337133756,24,Navidad,0,2025-04-27,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 20}"
+TRQ-01366,22,55.95982736917941,9,Black Friday,0,2025-01-15,,device: Mobile || browser: Android_Webview || session_mins: 99
+TRQ-01367,37,12.35676689268981,35,CyberLunes,0,2025-02-03,,device: Mobile || browser: Android_Webview || session_mins: 10
+TRQ-01368,28,99.0659134382561,20,CyberLunes,0,2025-01-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 1}"
+TRQ-01369,27,67.24039954440008,37,Black Friday,0,2025-03-22,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 102}"
+TRQ-01370,57,123.68792201657418,17,Black Friday,0,2025-03-06,,device: Mobile || browser: Android_Webview || session_mins: 33
+TRQ-01371,55,66.47518346463727,31,Black Friday,0,2025-03-10,,
+TRQ-01372,23,66.98463118632709,8,CyberLunes,1,2025-04-03,2025-06-26,device: Mobile || browser: Android_Webview || session_mins: 66
+TRQ-01373,25,151.20670775900464,15,Organico,0,2025-05-06,,device: Mobile || browser: Android_Webview || session_mins: 16
+TRQ-01374,40,19.147138835887155,31,Organico,0,2025-06-21,,device: Mobile || browser: Android_Webview || session_mins: 59
+TRQ-01375,64,181.55004908647757,30,Organico,0,2025-03-22,,NaN
+TRQ-01376,43,171.93013613432447,20,Black Friday,1,2025-03-01,2025-01-27,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 84}"
+TRQ-01377,63,136.88288981301724,39,Organico,0,2025-04-08,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 60}"
+TRQ-01378,60,122.71209832040302,12,Organico,0,2025-01-20,,device: Mobile || browser: Android_Webview || session_mins: 105
+TRQ-01379,29,179.53747464653392,17,Black Friday,0,2025-05-30,,
+TRQ-01380,43,45.21273411045574,30,Black Friday,0,2025-01-23,,NaN
+TRQ-01381,30,25.004140816257436,29,Organico,0,2025-01-10,,device: Mobile || browser: Android_Webview || session_mins: 72
+TRQ-01382,57,55.506932282812244,19,Navidad,0,2025-01-10,,NaN
+TRQ-01383,35,160.96987295303614,11,Black Friday,0,2025-01-28,,
+TRQ-01384,42,16.587350678031832,34,CyberLunes,1,2025-01-18,2025-03-28,NaN
+TRQ-01385,50,120.73329866586303,7,CyberLunes,0,2025-06-22,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 21}"
+TRQ-01386,64,199.1331280763489,34,Organico,0,2025-02-15,,device: Mobile || browser: Android_Webview || session_mins: 88
+TRQ-01387,57,172.5822578291325,20,Navidad,0,2025-01-09,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 63}"
+TRQ-01388,60,109.074680918282,38,Black Friday,1,2025-05-27,2025-06-19,device: Mobile || browser: Android_Webview || session_mins: 90
+TRQ-01389,29,22.091772764462046,24,CyberLunes,0,2025-05-06,,device: Mobile || browser: Android_Webview || session_mins: 29
+TRQ-01390,61,167.96096773328486,10,Navidad,1,2025-05-04,2025-06-10,
+TRQ-01391,53,123.80591655367,32,Navidad,1,2025-02-03,2024-12-21,device: Mobile || browser: Android_Webview || session_mins: 107
+TRQ-01392,65,31.837269441317698,15,Black Friday,0,2025-01-02,,NaN
+TRQ-01393,21,27.83288411643768,37,Organico,0,2025-01-07,,NaN
+TRQ-01394,22,182.82909569295256,20,CyberLunes,0,2025-02-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 88}"
+TRQ-01395,73,137.1480499582349,3,Black Friday,0,2025-01-06,,NaN
+TRQ-01396,54,167.56449187018356,37,Navidad,0,2025-03-22,,
+TRQ-01397,25,177.0059910536308,8,Black Friday,0,2025-01-19,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 88}"
+TRQ-01398,59,118.63674688918123,23,Organico,1,2025-06-27,2025-09-09,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 60}"
+TRQ-01399,66,108.31480683345784,11,Organico,0,2025-03-24,,NaN
+TRQ-01400,45,91.78120796098814,8,Organico,1,2025-03-07,2025-03-09,
+TRQ-01401,48,70.21985168031267,29,CyberLunes,0,2025-03-25,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 54}"
+TRQ-01402,26,92.57323256315523,30,CyberLunes,0,2025-05-17,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 106}"
+TRQ-01403,71,157.0371345887297,10,Black Friday,1,2025-05-12,2025-09-01,device: Mobile || browser: Android_Webview || session_mins: 44
+TRQ-01404,68,124.365451892875,39,Navidad,0,2025-01-26,,device: Mobile || browser: Android_Webview || session_mins: 73
+TRQ-01405,46,179.57942509142075,28,Organico,0,2025-03-11,,NaN
+TRQ-01406,31,94.24220273204567,36,Organico,0,2025-06-18,,device: Mobile || browser: Android_Webview || session_mins: 9
+TRQ-01407,57,125.34701995656326,13,Organico,0,2025-03-24,,
+TRQ-01408,58,129.94843508747786,32,Organico,0,2025-06-28,,NaN
+TRQ-01409,39,122.42246083820184,36,Organico,0,2025-04-28,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 28}"
+TRQ-01410,28,143.5004168862481,37,Black Friday,0,2025-04-06,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 115}"
+TRQ-01411,40,55.11235899121319,26,Black Friday,1,2025-02-03,2024-12-20,device: Mobile || browser: Android_Webview || session_mins: 81
+TRQ-01412,18,107.34911773370023,22,Navidad,0,2025-04-22,,device: Mobile || browser: Android_Webview || session_mins: 39
+TRQ-01413,63,29.802712533586057,4,CyberLunes,1,2025-05-27,2025-06-27,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 50}"
+TRQ-01414,54,83.05715225251438,31,CyberLunes,0,2025-05-06,,NaN
+TRQ-01415,38,102.65674303804023,18,Navidad,0,2025-01-17,,device: Mobile || browser: Android_Webview || session_mins: 72
+TRQ-01416,43,133.92260931363978,38,Organico,0,2025-03-22,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 1}"
+TRQ-01417,63,190.60089999137867,24,CyberLunes,0,2025-02-08,,
+TRQ-01418,53,124.12370264418762,23,Organico,1,2025-06-19,2025-06-20,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 78}"
+TRQ-01419,71,151.28284407354636,22,Organico,0,2025-05-16,,device: Mobile || browser: Android_Webview || session_mins: 31
+TRQ-01420,40,106.19055130408853,2,Black Friday,0,2025-03-20,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 5}"
+TRQ-01421,74,130.47976596150295,31,CyberLunes,0,2025-03-05,,device: Mobile || browser: Android_Webview || session_mins: 15
+TRQ-01422,18,23.477121065416952,11,CyberLunes,0,2025-04-23,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 92}"
+TRQ-01423,71,58.334400359950926,28,Organico,1,2025-03-31,2025-02-19,device: Mobile || browser: Android_Webview || session_mins: 70
+TRQ-01424,72,78.75208770897635,32,Organico,1,2025-06-10,2025-06-17,device: Mobile || browser: Android_Webview || session_mins: 2
+TRQ-01425,68,99.77373745123758,5,Organico,0,2025-02-08,,device: Mobile || browser: Android_Webview || session_mins: 86
+TRQ-01426,57,18.67326164545291,38,Navidad,0,2025-05-31,,NaN
+TRQ-01427,32,36.60457853513036,10,CyberLunes,0,2025-05-25,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 47}"
+TRQ-01428,38,62.5947184803481,24,CyberLunes,0,2025-02-22,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 9}"
+TRQ-01429,64,194.59121127119963,35,Organico,1,2025-01-30,2024-12-29,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 64}"
+TRQ-01430,26,72.95593134957964,23,CyberLunes,0,2025-05-25,,device: Mobile || browser: Android_Webview || session_mins: 52
+TRQ-01431,70,101.58780104129568,17,Black Friday,0,2025-03-18,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 96}"
+TRQ-01432,26,47.25856542029466,1,Black Friday,0,2025-05-26,,NaN
+TRQ-01433,27,126.04821350439597,31,CyberLunes,1,2025-03-06,2025-02-14,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 100}"
+TRQ-01434,69,63.32981094803512,31,Black Friday,0,2025-04-02,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 96}"
+TRQ-01435,74,49.328589903301086,34,Black Friday,0,2025-03-31,,NaN
+TRQ-01436,70,108.14879940473602,9,Black Friday,0,2025-01-14,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 88}"
+TRQ-01437,43,11.046101840479956,22,CyberLunes,0,2025-03-14,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 51}"
+TRQ-01438,58,11.456166203352812,13,Organico,1,2025-01-06,2025-01-07,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 110}"
+TRQ-01439,52,51.623073729352974,25,Organico,0,2025-01-13,,
+TRQ-01440,69,16.97705887515602,18,Black Friday,0,2025-06-19,,device: Mobile || browser: Android_Webview || session_mins: 47
+TRQ-01441,42,30.52489328483136,12,Organico,0,2025-01-04,,NaN
+TRQ-01442,43,74.38352337436281,17,Black Friday,0,2025-02-03,,device: Mobile || browser: Android_Webview || session_mins: 61
+TRQ-01443,28,162.49127912016445,15,Navidad,0,2025-05-02,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 97}"
+TRQ-01444,55,118.68924224016716,15,Organico,0,2025-02-20,,device: Mobile || browser: Android_Webview || session_mins: 42
+TRQ-01445,19,107.40686793171912,15,Organico,0,2025-05-18,,NaN
+TRQ-01446,24,65.76287640954311,39,Organico,0,2025-06-28,,NaN
+TRQ-01447,35,187.0332066922351,13,CyberLunes,0,2025-01-30,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 112}"
+TRQ-01448,44,85.43285783506641,17,CyberLunes,1,2025-02-09,2025-01-11,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 1}"
+TRQ-01449,51,26.547625691196583,32,Organico,0,2025-04-02,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 95}"
+TRQ-01450,44,127.24263806238224,9,Black Friday,0,2025-04-11,,NaN
+TRQ-01451,34,31.629294760554266,20,Black Friday,0,2025-06-23,,
+TRQ-01452,60,75.5923971323215,26,Organico,0,2025-01-18,,device: Mobile || browser: Android_Webview || session_mins: 33
+TRQ-01453,61,106.40826835638369,27,Organico,0,2025-02-26,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 98}"
+TRQ-01454,68,176.1022796901834,21,Organico,1,2025-02-16,2025-04-22,NaN
+TRQ-01455,71,103.77385026462255,18,Black Friday,0,2025-03-09,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 104}"
+TRQ-01456,41,143.4291655460162,13,Organico,0,2025-05-23,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 76}"
+TRQ-01457,42,198.63519940982337,16,CyberLunes,0,2025-03-09,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 113}"
+TRQ-01458,24,34.98293278061651,9,CyberLunes,0,2025-01-24,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 3}"
+TRQ-01459,69,62.198989848708706,12,Navidad,0,2025-04-05,,device: Mobile || browser: Android_Webview || session_mins: 107
+TRQ-01460,23,84.96945436355281,38,CyberLunes,0,2025-06-01,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 72}"
+TRQ-01461,70,90.14735392237796,19,Black Friday,0,2025-06-05,,device: Mobile || browser: Android_Webview || session_mins: 17
+TRQ-01462,41,88.09400430045369,7,Navidad,0,2025-02-24,,device: Mobile || browser: Android_Webview || session_mins: 102
+TRQ-01463,50,182.44609048574543,35,Black Friday,1,2025-05-19,2025-07-22,
+TRQ-01464,66,145.66620244870273,18,CyberLunes,1,2025-03-19,2025-04-30,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 46}"
+TRQ-01465,46,125.5019906772337,16,Black Friday,0,2025-01-17,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 113}"
+TRQ-01466,60,68.7808163939286,39,Black Friday,0,2025-02-11,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 27}"
+TRQ-01467,39,166.520173002046,4,Black Friday,1,2025-04-09,2025-07-05,device: Mobile || browser: Android_Webview || session_mins: 113
+TRQ-01468,43,191.4614971821479,25,Organico,0,2025-05-09,,NaN
+TRQ-01469,45,166.02767368454303,32,Organico,0,2025-03-03,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 119}"
+TRQ-01470,67,10.297369986379852,13,Black Friday,1,2025-03-28,2025-06-14,NaN
+TRQ-01471,38,130.91626033484732,17,Organico,1,2025-04-29,2025-04-28,NaN
+TRQ-01472,66,19.715722473999136,37,CyberLunes,0,2025-04-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 34}"
+TRQ-01473,24,58.94537186340715,6,Black Friday,0,2025-02-19,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 112}"
+TRQ-01474,34,21.30969306607662,19,Organico,0,2025-01-03,,device: Mobile || browser: Android_Webview || session_mins: 12
+TRQ-01475,37,124.72113606038367,13,Black Friday,0,2025-05-01,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 31}"
+TRQ-01476,58,140.4520835635953,26,Organico,0,2025-06-28,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 112}"
+TRQ-01477,66,31.752651232521973,14,Black Friday,0,2025-05-04,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 72}"
+TRQ-01478,37,82.9293877785461,31,Organico,0,2025-03-28,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 16}"
+TRQ-01479,71,96.68493670155299,4,Black Friday,0,2025-06-21,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 16}"
+TRQ-01480,39,80.12007413457415,39,Black Friday,0,2025-03-19,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 28}"
+TRQ-01481,45,32.99475009218668,8,Black Friday,0,2025-05-17,,
+TRQ-01482,57,89.60008013562033,25,Organico,0,2025-03-01,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 47}"
+TRQ-01483,66,152.72382908359944,13,Navidad,0,2025-01-13,,NaN
+TRQ-01484,24,23.49145626131854,32,Organico,1,2025-01-05,2025-04-29,NaN
+TRQ-01485,18,25.234202675561654,38,Black Friday,0,2025-04-28,,device: Mobile || browser: Android_Webview || session_mins: 66
+TRQ-01486,49,77.406545448837,38,CyberLunes,1,2025-04-06,2025-04-30,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 99}"
+TRQ-01487,30,188.92788520759575,28,Black Friday,1,2025-05-06,2025-07-11,
+TRQ-01488,47,137.02880287735366,30,Navidad,0,2025-02-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 31}"
+TRQ-01489,40,138.9472917677873,3,Organico,0,2025-05-04,,
+TRQ-01490,68,78.76479825919435,28,Black Friday,1,2025-01-08,2024-12-31,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 46}"
+TRQ-01491,73,122.7955503296223,3,Navidad,0,2025-03-11,,"{""device"": ""Desktop"", ""browser"": ""Chrome"", ""session_mins"": 23}"
+TRQ-01492,36,11.924924965271241,34,Black Friday,0,2025-03-11,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 32}"
+TRQ-01493,49,130.85824881781303,16,Navidad,0,2025-03-23,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 3}"
+TRQ-01494,47,183.52452003948497,22,Organico,0,2025-01-31,,
+TRQ-01495,46,126.38895898551564,32,Black Friday,1,2025-03-15,2025-03-30,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 114}"
+TRQ-01496,66,176.00273275860556,38,Black Friday,1,2025-01-07,2025-01-14,device: Mobile || browser: Android_Webview || session_mins: 71
+TRQ-01497,62,147.55488053855782,8,Organico,1,2025-03-31,2025-06-21,
+TRQ-01498,46,32.90609911670114,8,Organico,0,2025-05-28,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 112}"
+TRQ-01499,47,181.46612838430994,6,Navidad,0,2025-03-08,,"{""device"": ""Mobile"", ""browser"": ""Safari"", ""session_mins"": 111}"
+TRQ-01500,33,22.62433042759723,14,Navidad,0,2025-01-11,,
