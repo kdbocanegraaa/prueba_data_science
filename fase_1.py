@@ -1,15 +1,18 @@
-# Prueba data_science
-
 # Fase 1: Calidad de Datos y Análisis Crítico (EDA)
 
-# 1. Auditoría Metodológica:
+import os
 import pandas as pd
 import json
 
-# Leer archivo .csv
-df = pd.read_csv(r"C:\Users\Kevin Bocanegra\Downloads\retencion_clientes.xls", sep=',')
+# Definición de rutas relativas dinámicas
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+RAW_DATA_PATH = os.path.join(BASE_DIR, "data", "retencion_clientes.xls")
+CLEAN_DATA_PATH = os.path.join(BASE_DIR, "data", "retencion_clientes_limpio.csv")
 
-# Función para procesar los datos de metadatos_sesion 
+# Cargar archivo de datos de muestras
+df = pd.read_csv(RAW_DATA_PATH, sep=',')
+
+# Función para extraer las columnas de metadatos_sesion
 def procesar_metadatos(x):
     # Si es un valor nulo o no es texto, devolver diccionario vacío
     if pd.isna(x) or not isinstance(x, str):
@@ -17,7 +20,7 @@ def procesar_metadatos(x):
     
     x = x.strip()
     
-    # Separar los formato JSON '{"device": "Mobile", "browser": "Safari", "session_mins": 65}'
+    # Separar los de formato JSON '{"device": "Mobile", "browser": "Safari", "session_mins": 65}'
     if x.startswith('{') and x.endswith('}'):
         try:
             return json.loads(x)
@@ -34,26 +37,25 @@ def procesar_metadatos(x):
             
     return res
 
-# Separar las columnas de metadatos_sesion
+# Extraer y expandir la columna metadatos_sesion
 meta_dict = df['metadatos_sesion'].apply(procesar_metadatos)
-
-# Crear dataframe a partir del diccionario de metadatos_sesion
 meta_df = pd.DataFrame(list(meta_dict))
 
-# Traer las columnas de metadatos_sesion al dataframe original
+# Integrar las columnas al DataFrame original
 df['device'] = meta_df['device']
 df['browser'] = meta_df['browser']
 df['session_mins'] = pd.to_numeric(meta_df['session_mins'], errors='coerce')
 
-# Crear clasificador que identifique los usuarios con tiempo de sesión nulo
+# Clasificador de usuarios con tiempo de sesión vacío
 df['session_nulo'] = df['session_mins'].isna().astype(int)
 
-# Dejar los nulos de session_mins con la mediana para el posterior entrenamiento
+# Imponer la mediana a estos usuarios para posterior modelado
 mediana_session = df['session_mins'].median()
 df['session_mins_imputado'] = df['session_mins'].fillna(mediana_session)
 
-# Eliminar columna metadatos_sesion ya que ahora es innecesaria, pues ya se extrajo lo que se necesitaba
+# Eliminar la columna metadatos_sesion original
 df.drop(columns=['metadatos_sesion'], inplace=True)
 
-# Exportar a Excel
-df.to_excel(r"C:\Users\Kevin Bocanegra\Downloads\retencion_clientes_limpio.xlsx", index=False)
+# Exportar el dataset procesado a la carpeta data/ (Ruta relativa)
+df.to_csv(CLEAN_DATA_PATH, index=False)
+print(f"Fase 1 completada exitosamente. Dataset limpio guardado en: {CLEAN_DATA_PATH}")
