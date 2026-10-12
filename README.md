@@ -38,7 +38,7 @@ python fase_3.py
 python fase_4.py
 ```
 
-## Respuestas de la Prueba Técnica para Científico de Datos en Tranqui Finanzas.
+## Respuestas de la Prueba
 
 <b> Fase 1: Calidad de Datos y Análisis Crítico (EDA) </b>
 
